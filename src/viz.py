@@ -252,37 +252,59 @@ def plot_sec_context(rankings: pd.DataFrame,
         print("  No metrics available for SEC context plot.")
         return
 
-    labels = {
-        "yardsPerPlay":   "Yards per Play",
-        "pointsPerGame":  "Points per Game",
-        "thirdDownPct":   "3rd-Down Conv. %",
+    col_labels = {
+        "yardsPerGame":  "Total Yards per Game",
+        "thirdDownPct":  "3rd-Down Conversion %",
+        "rushingYards":  "Rushing Yards (Season)",
     }
 
-    fig, axes = plt.subplots(1, n, figsize=(5 * n, 6))
+    fig, axes = plt.subplots(1, n, figsize=(7 * n, 9))
     if n == 1:
         axes = [axes]
 
     fig.suptitle(f"Florida vs. SEC — Key Efficiency Metrics ({season})",
-                 fontsize=13, fontweight="bold")
+                 fontsize=15, fontweight="bold", y=1.01)
 
     for ax, col in zip(axes, metrics):
         if col not in rankings.columns:
             continue
-        sub = rankings.dropna(subset=[col]).sort_values(col, ascending=True)
-        colors = [UF_ORANGE if t == "Florida" else SEC_GRAY
-                  for t in sub["team"]]
-        ax.barh(sub["team"], sub[col], color=colors, edgecolor="white")
-        ax.axvline(sub[col].mean(), color="gray", lw=1, ls="--",
-                   label=f"SEC avg ({sub[col].mean():.1f})")
-        ax.set_title(labels.get(col, col))
-        ax.legend(fontsize=8)
 
-        # Highlight UF bar label
-        uf_val = sub[sub["team"] == "Florida"][col].values
-        if len(uf_val):
-            ax.text(uf_val[0] + 0.05, sub[sub["team"] == "Florida"].index[-1],
-                    f"  UF: {uf_val[0]:.1f}", va="center",
-                    color=UF_ORANGE, fontsize=8, fontweight="bold")
+        sub = rankings.dropna(subset=[col]).sort_values(col, ascending=True).reset_index(drop=True)
+        n_teams = len(sub)
+        colors = [UF_ORANGE if t == "Florida" else "#B0BEC5" for t in sub["team"]]
+
+        ax.barh(range(n_teams), sub[col], height=0.65,
+                color=colors, edgecolor="white", linewidth=0.5)
+
+        ax.set_yticks(range(n_teams))
+        ax.set_yticklabels(sub["team"], fontsize=10)
+
+        x_max = sub[col].max()
+        for i, (val, team) in enumerate(zip(sub[col], sub["team"])):
+            is_uf = team == "Florida"
+            ax.text(val + x_max * 0.01, i, f"{val:.1f}",
+                    va="center", ha="left",
+                    fontsize=9,
+                    fontweight="bold" if is_uf else "normal",
+                    color=UF_ORANGE if is_uf else "#555555")
+
+        avg = sub[col].mean()
+        ax.axvline(avg, color="#455A64", lw=1.5, ls="--", alpha=0.8,
+                   label=f"SEC avg: {avg:.1f}")
+
+        uf_rank = sub[sub["team"] == "Florida"].index
+        if len(uf_rank):
+            rank_from_top = n_teams - int(uf_rank[0])
+            ax.set_title(f"{col_labels.get(col, col)}\n(UF rank: {rank_from_top} of {n_teams})",
+                         fontsize=11, fontweight="bold", pad=10)
+        else:
+            ax.set_title(col_labels.get(col, col), fontsize=11, fontweight="bold")
+
+        ax.legend(fontsize=9, loc="lower right")
+        ax.set_xlim(0, x_max * 1.15)
+        ax.spines["top"].set_visible(False)
+        ax.spines["right"].set_visible(False)
+        ax.tick_params(axis="x", labelsize=9)
 
     plt.tight_layout()
     _save(fig, fname)
@@ -337,12 +359,13 @@ def run_all() -> None:
     plot_win_loss(wl_splits, effects)
 
     print("Fig 5 — SEC Context")
-    # Compute derived metrics for SEC comparison
-    sec["thirdDownPct"] = sec["thirdDownConversions"] / sec["thirdDowns"]
-    sec["yardsPerGame"] = sec["totalYards"] / sec["games"]
+    # Compute derived metrics from raw columns
+    if "totalYards" in sec.columns and "games" in sec.columns:
+        sec["yardsPerGame"] = sec["totalYards"] / sec["games"]
+    if "thirdDownConversions" in sec.columns and "thirdDowns" in sec.columns:
+        sec["thirdDownPct"] = sec["thirdDownConversions"] / sec["thirdDowns"]
     avail = [c for c in ["yardsPerGame", "thirdDownPct", "rushingYards"]
-         if c in sec.columns]
-    
+             if c in sec.columns]
     if avail:
         rankings = sec_rankings(sec, season=2024, metrics=avail)
         plot_sec_context(rankings, metrics=avail, season=2024)
