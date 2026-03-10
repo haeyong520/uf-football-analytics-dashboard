@@ -42,7 +42,7 @@ The emphasis is on **interpretable metrics over predictive complexity**, and on 
 ![fig4](outputs/figures/fig4_win_loss.png)
 
 ### Figure 5 — SEC Context (2024)
-<img src="outputs/figures/fig5_sec_context.png" width="100%" style="min-width:900px">
+![fig5](outputs/figures/fig5_sec_context.png)
 
 ---
 
