@@ -1,0 +1,20 @@
+# Environment & secrets
+.env
+
+# Downloaded data (regenerate with data_loader.py)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
