@@ -258,7 +258,7 @@ def plot_sec_context(rankings: pd.DataFrame,
         "rushingYards":  "Rushing Yards (Season)",
     }
 
-    fig, axes = plt.subplots(1, n, figsize=(7 * n, 9))
+    fig, axes = plt.subplots(1, n, figsize=(8 * n, 10), dpi=120)
     if n == 1:
         axes = [axes]
 
