@@ -1,0 +1,2770 @@
+season,team,conference,statName,statValue
+2022,Alabama,SEC,firstDowns,310
+2022,Alabama,SEC,firstDownsOpponent,241
+2022,Alabama,SEC,fourthDownConversions,9
+2022,Alabama,SEC,fourthDownConversionsOpponent,10
+2022,Alabama,SEC,fourthDowns,15
+2022,Alabama,SEC,fourthDownsOpponent,26
+2022,Alabama,SEC,fumblesLost,8
+2022,Alabama,SEC,fumblesLostOpponent,7
+2022,Alabama,SEC,fumblesRecovered,9
+2022,Alabama,SEC,fumblesRecoveredOpponent,9
+2022,Alabama,SEC,games,13
+2022,Alabama,SEC,interceptions,8
+2022,Alabama,SEC,interceptionsOpponent,7
+2022,Alabama,SEC,interceptionTDs,1
+2022,Alabama,SEC,interceptionTDsOpponent,0
+2022,Alabama,SEC,interceptionYards,74
+2022,Alabama,SEC,interceptionYardsOpponent,18
+2022,Alabama,SEC,kickReturns,21
+2022,Alabama,SEC,kickReturnsOpponent,34
+2022,Alabama,SEC,kickReturnTDs,0
+2022,Alabama,SEC,kickReturnTDsOpponent,0
+2022,Alabama,SEC,kickReturnYards,372
+2022,Alabama,SEC,kickReturnYardsOpponent,593
+2022,Alabama,SEC,netPassingYards,3660
+2022,Alabama,SEC,netPassingYardsOpponent,2442
+2022,Alabama,SEC,passAttempts,438
+2022,Alabama,SEC,passAttemptsOpponent,434
+2022,Alabama,SEC,passCompletions,280
+2022,Alabama,SEC,passCompletionsOpponent,238
+2022,Alabama,SEC,passesIntercepted,7
+2022,Alabama,SEC,passesInterceptedOpponent,8
+2022,Alabama,SEC,passingTDs,37
+2022,Alabama,SEC,passingTDsOpponent,12
+2022,Alabama,SEC,penalties,103
+2022,Alabama,SEC,penaltiesOpponent,87
+2022,Alabama,SEC,penaltyYards,893
+2022,Alabama,SEC,penaltyYardsOpponent,663
+2022,Alabama,SEC,possessionTime,23330
+2022,Alabama,SEC,possessionTimeOpponent,23432
+2022,Alabama,SEC,puntReturns,30
+2022,Alabama,SEC,puntReturnsOpponent,12
+2022,Alabama,SEC,puntReturnTDs,2
+2022,Alabama,SEC,puntReturnTDsOpponent,0
+2022,Alabama,SEC,puntReturnYards,456
+2022,Alabama,SEC,puntReturnYardsOpponent,77
+2022,Alabama,SEC,rushingAttempts,458
+2022,Alabama,SEC,rushingAttemptsOpponent,467
+2022,Alabama,SEC,rushingTDs,26
+2022,Alabama,SEC,rushingTDsOpponent,15
+2022,Alabama,SEC,rushingYards,2544
+2022,Alabama,SEC,rushingYardsOpponent,1695
+2022,Alabama,SEC,sacks,38
+2022,Alabama,SEC,sacksOpponent,22
+2022,Alabama,SEC,tacklesForLoss,84
+2022,Alabama,SEC,tacklesForLossOpponent,62
+2022,Alabama,SEC,thirdDownConversions,74
+2022,Alabama,SEC,thirdDownConversionsOpponent,60
+2022,Alabama,SEC,thirdDowns,162
+2022,Alabama,SEC,thirdDownsOpponent,198
+2022,Alabama,SEC,totalYards,6204
+2022,Alabama,SEC,totalYardsOpponent,4137
+2022,Alabama,SEC,turnovers,16
+2022,Alabama,SEC,turnoversOpponent,14
+2022,Arkansas,SEC,firstDowns,311
+2022,Arkansas,SEC,firstDownsOpponent,293
+2022,Arkansas,SEC,fourthDownConversions,9
+2022,Arkansas,SEC,fourthDownConversionsOpponent,12
+2022,Arkansas,SEC,fourthDowns,20
+2022,Arkansas,SEC,fourthDownsOpponent,21
+2022,Arkansas,SEC,fumblesLost,11
+2022,Arkansas,SEC,fumblesLostOpponent,9
+2022,Arkansas,SEC,fumblesRecovered,13
+2022,Arkansas,SEC,fumblesRecoveredOpponent,21
+2022,Arkansas,SEC,games,13
+2022,Arkansas,SEC,interceptions,7
+2022,Arkansas,SEC,interceptionsOpponent,9
+2022,Arkansas,SEC,interceptionTDs,0
+2022,Arkansas,SEC,interceptionTDsOpponent,0
+2022,Arkansas,SEC,interceptionYards,83
+2022,Arkansas,SEC,interceptionYardsOpponent,22
+2022,Arkansas,SEC,kickReturns,9
+2022,Arkansas,SEC,kickReturnsOpponent,9
+2022,Arkansas,SEC,kickReturnTDs,0
+2022,Arkansas,SEC,kickReturnTDsOpponent,0
+2022,Arkansas,SEC,kickReturnYards,161
+2022,Arkansas,SEC,kickReturnYardsOpponent,194
+2022,Arkansas,SEC,netPassingYards,3041
+2022,Arkansas,SEC,netPassingYardsOpponent,3819
+2022,Arkansas,SEC,passAttempts,356
+2022,Arkansas,SEC,passAttemptsOpponent,448
+2022,Arkansas,SEC,passCompletions,230
+2022,Arkansas,SEC,passCompletionsOpponent,274
+2022,Arkansas,SEC,passesIntercepted,9
+2022,Arkansas,SEC,passesInterceptedOpponent,7
+2022,Arkansas,SEC,passingTDs,26
+2022,Arkansas,SEC,passingTDsOpponent,24
+2022,Arkansas,SEC,penalties,83
+2022,Arkansas,SEC,penaltiesOpponent,93
+2022,Arkansas,SEC,penaltyYards,723
+2022,Arkansas,SEC,penaltyYardsOpponent,767
+2022,Arkansas,SEC,possessionTime,23698
+2022,Arkansas,SEC,possessionTimeOpponent,23961
+2022,Arkansas,SEC,puntReturns,16
+2022,Arkansas,SEC,puntReturnsOpponent,10
+2022,Arkansas,SEC,puntReturnTDs,1
+2022,Arkansas,SEC,puntReturnTDsOpponent,0
+2022,Arkansas,SEC,puntReturnYards,162
+2022,Arkansas,SEC,puntReturnYardsOpponent,144
+2022,Arkansas,SEC,rushingAttempts,606
+2022,Arkansas,SEC,rushingAttemptsOpponent,488
+2022,Arkansas,SEC,rushingTDs,27
+2022,Arkansas,SEC,rushingTDsOpponent,26
+2022,Arkansas,SEC,rushingYards,3085
+2022,Arkansas,SEC,rushingYardsOpponent,2222
+2022,Arkansas,SEC,sacks,39
+2022,Arkansas,SEC,sacksOpponent,31
+2022,Arkansas,SEC,tacklesForLoss,73
+2022,Arkansas,SEC,tacklesForLossOpponent,80
+2022,Arkansas,SEC,thirdDownConversions,89
+2022,Arkansas,SEC,thirdDownConversionsOpponent,86
+2022,Arkansas,SEC,thirdDowns,194
+2022,Arkansas,SEC,thirdDownsOpponent,191
+2022,Arkansas,SEC,totalYards,6126
+2022,Arkansas,SEC,totalYardsOpponent,6041
+2022,Arkansas,SEC,turnovers,18
+2022,Arkansas,SEC,turnoversOpponent,18
+2022,Auburn,SEC,firstDowns,217
+2022,Auburn,SEC,firstDownsOpponent,244
+2022,Auburn,SEC,fourthDownConversions,13
+2022,Auburn,SEC,fourthDownConversionsOpponent,6
+2022,Auburn,SEC,fourthDowns,22
+2022,Auburn,SEC,fourthDownsOpponent,12
+2022,Auburn,SEC,fumblesLost,10
+2022,Auburn,SEC,fumblesLostOpponent,7
+2022,Auburn,SEC,fumblesRecovered,12
+2022,Auburn,SEC,fumblesRecoveredOpponent,17
+2022,Auburn,SEC,games,12
+2022,Auburn,SEC,interceptions,12
+2022,Auburn,SEC,interceptionsOpponent,6
+2022,Auburn,SEC,interceptionTDs,1
+2022,Auburn,SEC,interceptionTDsOpponent,0
+2022,Auburn,SEC,interceptionYards,60
+2022,Auburn,SEC,interceptionYardsOpponent,81
+2022,Auburn,SEC,kickReturns,24
+2022,Auburn,SEC,kickReturnsOpponent,31
+2022,Auburn,SEC,kickReturnTDs,0
+2022,Auburn,SEC,kickReturnTDsOpponent,1
+2022,Auburn,SEC,kickReturnYards,396
+2022,Auburn,SEC,kickReturnYardsOpponent,694
+2022,Auburn,SEC,netPassingYards,2072
+2022,Auburn,SEC,netPassingYardsOpponent,2661
+2022,Auburn,SEC,passAttempts,308
+2022,Auburn,SEC,passAttemptsOpponent,411
+2022,Auburn,SEC,passCompletions,159
+2022,Auburn,SEC,passCompletionsOpponent,237
+2022,Auburn,SEC,passesIntercepted,6
+2022,Auburn,SEC,passesInterceptedOpponent,12
+2022,Auburn,SEC,passingTDs,9
+2022,Auburn,SEC,passingTDsOpponent,15
+2022,Auburn,SEC,penalties,90
+2022,Auburn,SEC,penaltiesOpponent,90
+2022,Auburn,SEC,penaltyYards,688
+2022,Auburn,SEC,penaltyYardsOpponent,694
+2022,Auburn,SEC,possessionTime,21757
+2022,Auburn,SEC,possessionTimeOpponent,21443
+2022,Auburn,SEC,puntReturns,20
+2022,Auburn,SEC,puntReturnsOpponent,11
+2022,Auburn,SEC,puntReturnTDs,0
+2022,Auburn,SEC,puntReturnTDsOpponent,0
+2022,Auburn,SEC,puntReturnYards,170
+2022,Auburn,SEC,puntReturnYardsOpponent,41
+2022,Auburn,SEC,rushingAttempts,488
+2022,Auburn,SEC,rushingAttemptsOpponent,448
+2022,Auburn,SEC,rushingTDs,25
+2022,Auburn,SEC,rushingTDsOpponent,28
+2022,Auburn,SEC,rushingYards,2470
+2022,Auburn,SEC,rushingYardsOpponent,2082
+2022,Auburn,SEC,sacks,26
+2022,Auburn,SEC,sacksOpponent,31
+2022,Auburn,SEC,tacklesForLoss,62
+2022,Auburn,SEC,tacklesForLossOpponent,80
+2022,Auburn,SEC,thirdDownConversions,64
+2022,Auburn,SEC,thirdDownConversionsOpponent,76
+2022,Auburn,SEC,thirdDowns,178
+2022,Auburn,SEC,thirdDownsOpponent,179
+2022,Auburn,SEC,totalYards,4542
+2022,Auburn,SEC,totalYardsOpponent,4743
+2022,Auburn,SEC,turnovers,22
+2022,Auburn,SEC,turnoversOpponent,13
+2022,Florida,SEC,firstDowns,260
+2022,Florida,SEC,firstDownsOpponent,296
+2022,Florida,SEC,fourthDownConversions,15
+2022,Florida,SEC,fourthDownConversionsOpponent,10
+2022,Florida,SEC,fourthDowns,32
+2022,Florida,SEC,fourthDownsOpponent,23
+2022,Florida,SEC,fumblesLost,5
+2022,Florida,SEC,fumblesLostOpponent,13
+2022,Florida,SEC,fumblesRecovered,17
+2022,Florida,SEC,fumblesRecoveredOpponent,8
+2022,Florida,SEC,games,13
+2022,Florida,SEC,interceptions,9
+2022,Florida,SEC,interceptionsOpponent,9
+2022,Florida,SEC,interceptionTDs,2
+2022,Florida,SEC,interceptionTDsOpponent,1
+2022,Florida,SEC,interceptionYards,93
+2022,Florida,SEC,interceptionYardsOpponent,125
+2022,Florida,SEC,kickReturns,27
+2022,Florida,SEC,kickReturnsOpponent,21
+2022,Florida,SEC,kickReturnTDs,0
+2022,Florida,SEC,kickReturnTDsOpponent,0
+2022,Florida,SEC,kickReturnYards,586
+2022,Florida,SEC,kickReturnYardsOpponent,449
+2022,Florida,SEC,netPassingYards,2910
+2022,Florida,SEC,netPassingYardsOpponent,3065
+2022,Florida,SEC,passAttempts,366
+2022,Florida,SEC,passAttemptsOpponent,396
+2022,Florida,SEC,passCompletions,199
+2022,Florida,SEC,passCompletionsOpponent,240
+2022,Florida,SEC,passesIntercepted,9
+2022,Florida,SEC,passesInterceptedOpponent,9
+2022,Florida,SEC,passingTDs,18
+2022,Florida,SEC,passingTDsOpponent,17
+2022,Florida,SEC,penalties,89
+2022,Florida,SEC,penaltiesOpponent,73
+2022,Florida,SEC,penaltyYards,651
+2022,Florida,SEC,penaltyYardsOpponent,577
+2022,Florida,SEC,possessionTime,22655
+2022,Florida,SEC,possessionTimeOpponent,24113
+2022,Florida,SEC,puntReturns,18
+2022,Florida,SEC,puntReturnsOpponent,12
+2022,Florida,SEC,puntReturnTDs,0
+2022,Florida,SEC,puntReturnTDsOpponent,0
+2022,Florida,SEC,puntReturnYards,130
+2022,Florida,SEC,puntReturnYardsOpponent,96
+2022,Florida,SEC,rushingAttempts,472
+2022,Florida,SEC,rushingAttemptsOpponent,506
+2022,Florida,SEC,rushingTDs,29
+2022,Florida,SEC,rushingTDsOpponent,29
+2022,Florida,SEC,rushingYards,2603
+2022,Florida,SEC,rushingYardsOpponent,2278
+2022,Florida,SEC,sacks,23
+2022,Florida,SEC,sacksOpponent,17
+2022,Florida,SEC,tacklesForLoss,70
+2022,Florida,SEC,tacklesForLossOpponent,53
+2022,Florida,SEC,thirdDownConversions,68
+2022,Florida,SEC,thirdDownConversionsOpponent,87
+2022,Florida,SEC,thirdDowns,168
+2022,Florida,SEC,thirdDownsOpponent,175
+2022,Florida,SEC,totalYards,5513
+2022,Florida,SEC,totalYardsOpponent,5343
+2022,Florida,SEC,turnovers,14
+2022,Florida,SEC,turnoversOpponent,22
+2022,Georgia,SEC,firstDowns,371
+2022,Georgia,SEC,firstDownsOpponent,232
+2022,Georgia,SEC,fourthDownConversions,13
+2022,Georgia,SEC,fourthDownConversionsOpponent,12
+2022,Georgia,SEC,fourthDowns,15
+2022,Georgia,SEC,fourthDownsOpponent,32
+2022,Georgia,SEC,fumblesLost,10
+2022,Georgia,SEC,fumblesLostOpponent,7
+2022,Georgia,SEC,fumblesRecovered,11
+2022,Georgia,SEC,fumblesRecoveredOpponent,18
+2022,Georgia,SEC,games,15
+2022,Georgia,SEC,interceptions,7
+2022,Georgia,SEC,interceptionsOpponent,12
+2022,Georgia,SEC,interceptionTDs,0
+2022,Georgia,SEC,interceptionTDsOpponent,0
+2022,Georgia,SEC,interceptionYards,122
+2022,Georgia,SEC,interceptionYardsOpponent,28
+2022,Georgia,SEC,kickReturns,22
+2022,Georgia,SEC,kickReturnsOpponent,23
+2022,Georgia,SEC,kickReturnTDs,0
+2022,Georgia,SEC,kickReturnTDsOpponent,0
+2022,Georgia,SEC,kickReturnYards,437
+2022,Georgia,SEC,kickReturnYardsOpponent,460
+2022,Georgia,SEC,netPassingYards,4437
+2022,Georgia,SEC,netPassingYardsOpponent,3296
+2022,Georgia,SEC,passAttempts,492
+2022,Georgia,SEC,passAttemptsOpponent,511
+2022,Georgia,SEC,passCompletions,336
+2022,Georgia,SEC,passCompletionsOpponent,294
+2022,Georgia,SEC,passesIntercepted,12
+2022,Georgia,SEC,passesInterceptedOpponent,7
+2022,Georgia,SEC,passingTDs,31
+2022,Georgia,SEC,passingTDsOpponent,15
+2022,Georgia,SEC,penalties,66
+2022,Georgia,SEC,penaltiesOpponent,83
+2022,Georgia,SEC,penaltyYards,673
+2022,Georgia,SEC,penaltyYardsOpponent,616
+2022,Georgia,SEC,possessionTime,30211
+2022,Georgia,SEC,possessionTimeOpponent,23781
+2022,Georgia,SEC,puntReturns,22
+2022,Georgia,SEC,puntReturnsOpponent,6
+2022,Georgia,SEC,puntReturnTDs,0
+2022,Georgia,SEC,puntReturnTDsOpponent,1
+2022,Georgia,SEC,puntReturnYards,265
+2022,Georgia,SEC,puntReturnYardsOpponent,110
+2022,Georgia,SEC,rushingAttempts,557
+2022,Georgia,SEC,rushingAttemptsOpponent,401
+2022,Georgia,SEC,rushingTDs,44
+2022,Georgia,SEC,rushingTDsOpponent,7
+2022,Georgia,SEC,rushingYards,3080
+2022,Georgia,SEC,rushingYardsOpponent,1156
+2022,Georgia,SEC,sacks,35
+2022,Georgia,SEC,sacksOpponent,9
+2022,Georgia,SEC,tacklesForLoss,81
+2022,Georgia,SEC,tacklesForLossOpponent,49
+2022,Georgia,SEC,thirdDownConversions,93
+2022,Georgia,SEC,thirdDownConversionsOpponent,53
+2022,Georgia,SEC,thirdDowns,182
+2022,Georgia,SEC,thirdDownsOpponent,199
+2022,Georgia,SEC,totalYards,7517
+2022,Georgia,SEC,totalYardsOpponent,4452
+2022,Georgia,SEC,turnovers,17
+2022,Georgia,SEC,turnoversOpponent,19
+2022,Kentucky,SEC,firstDowns,229
+2022,Kentucky,SEC,firstDownsOpponent,198
+2022,Kentucky,SEC,fourthDownConversions,16
+2022,Kentucky,SEC,fourthDownConversionsOpponent,12
+2022,Kentucky,SEC,fourthDowns,26
+2022,Kentucky,SEC,fourthDownsOpponent,29
+2022,Kentucky,SEC,fumblesLost,6
+2022,Kentucky,SEC,fumblesLostOpponent,6
+2022,Kentucky,SEC,fumblesRecovered,10
+2022,Kentucky,SEC,fumblesRecoveredOpponent,11
+2022,Kentucky,SEC,games,13
+2022,Kentucky,SEC,interceptions,13
+2022,Kentucky,SEC,interceptionsOpponent,10
+2022,Kentucky,SEC,interceptionTDs,1
+2022,Kentucky,SEC,interceptionTDsOpponent,3
+2022,Kentucky,SEC,interceptionYards,144
+2022,Kentucky,SEC,interceptionYardsOpponent,251
+2022,Kentucky,SEC,kickReturns,27
+2022,Kentucky,SEC,kickReturnsOpponent,14
+2022,Kentucky,SEC,kickReturnTDs,1
+2022,Kentucky,SEC,kickReturnTDsOpponent,0
+2022,Kentucky,SEC,kickReturnYards,506
+2022,Kentucky,SEC,kickReturnYardsOpponent,334
+2022,Kentucky,SEC,netPassingYards,2710
+2022,Kentucky,SEC,netPassingYardsOpponent,2220
+2022,Kentucky,SEC,passAttempts,349
+2022,Kentucky,SEC,passAttemptsOpponent,346
+2022,Kentucky,SEC,passCompletions,224
+2022,Kentucky,SEC,passCompletionsOpponent,206
+2022,Kentucky,SEC,passesIntercepted,10
+2022,Kentucky,SEC,passesInterceptedOpponent,13
+2022,Kentucky,SEC,passingTDs,21
+2022,Kentucky,SEC,passingTDsOpponent,10
+2022,Kentucky,SEC,penalties,74
+2022,Kentucky,SEC,penaltiesOpponent,74
+2022,Kentucky,SEC,penaltyYards,514
+2022,Kentucky,SEC,penaltyYardsOpponent,644
+2022,Kentucky,SEC,possessionTime,25845
+2022,Kentucky,SEC,possessionTimeOpponent,20915
+2022,Kentucky,SEC,puntReturns,23
+2022,Kentucky,SEC,puntReturnsOpponent,12
+2022,Kentucky,SEC,puntReturnTDs,0
+2022,Kentucky,SEC,puntReturnTDsOpponent,0
+2022,Kentucky,SEC,puntReturnYards,114
+2022,Kentucky,SEC,puntReturnYardsOpponent,167
+2022,Kentucky,SEC,rushingAttempts,463
+2022,Kentucky,SEC,rushingAttemptsOpponent,433
+2022,Kentucky,SEC,rushingTDs,9
+2022,Kentucky,SEC,rushingTDsOpponent,16
+2022,Kentucky,SEC,rushingYards,1511
+2022,Kentucky,SEC,rushingYardsOpponent,1828
+2022,Kentucky,SEC,sacks,19
+2022,Kentucky,SEC,sacksOpponent,47
+2022,Kentucky,SEC,tacklesForLoss,52
+2022,Kentucky,SEC,tacklesForLossOpponent,87
+2022,Kentucky,SEC,thirdDownConversions,58
+2022,Kentucky,SEC,thirdDownConversionsOpponent,57
+2022,Kentucky,SEC,thirdDowns,170
+2022,Kentucky,SEC,thirdDownsOpponent,171
+2022,Kentucky,SEC,totalYards,4221
+2022,Kentucky,SEC,totalYardsOpponent,4048
+2022,Kentucky,SEC,turnovers,19
+2022,Kentucky,SEC,turnoversOpponent,16
+2022,LSU,SEC,firstDowns,345
+2022,LSU,SEC,firstDownsOpponent,264
+2022,LSU,SEC,fourthDownConversions,11
+2022,LSU,SEC,fourthDownConversionsOpponent,12
+2022,LSU,SEC,fourthDowns,22
+2022,LSU,SEC,fourthDownsOpponent,30
+2022,LSU,SEC,fumblesLost,12
+2022,LSU,SEC,fumblesLostOpponent,11
+2022,LSU,SEC,fumblesRecovered,19
+2022,LSU,SEC,fumblesRecoveredOpponent,16
+2022,LSU,SEC,games,14
+2022,LSU,SEC,interceptions,7
+2022,LSU,SEC,interceptionsOpponent,9
+2022,LSU,SEC,interceptionTDs,2
+2022,LSU,SEC,interceptionTDsOpponent,1
+2022,LSU,SEC,interceptionYards,197
+2022,LSU,SEC,interceptionYardsOpponent,114
+2022,LSU,SEC,kickReturns,17
+2022,LSU,SEC,kickReturnsOpponent,30
+2022,LSU,SEC,kickReturnTDs,0
+2022,LSU,SEC,kickReturnTDsOpponent,0
+2022,LSU,SEC,kickReturnYards,337
+2022,LSU,SEC,kickReturnYardsOpponent,686
+2022,LSU,SEC,netPassingYards,3770
+2022,LSU,SEC,netPassingYardsOpponent,2885
+2022,LSU,SEC,passAttempts,480
+2022,LSU,SEC,passAttemptsOpponent,424
+2022,LSU,SEC,passCompletions,322
+2022,LSU,SEC,passCompletionsOpponent,237
+2022,LSU,SEC,passesIntercepted,9
+2022,LSU,SEC,passesInterceptedOpponent,7
+2022,LSU,SEC,passingTDs,23
+2022,LSU,SEC,passingTDsOpponent,17
+2022,LSU,SEC,penalties,84
+2022,LSU,SEC,penaltiesOpponent,80
+2022,LSU,SEC,penaltyYards,730
+2022,LSU,SEC,penaltyYardsOpponent,770
+2022,LSU,SEC,possessionTime,26058
+2022,LSU,SEC,possessionTimeOpponent,24308
+2022,LSU,SEC,puntReturns,17
+2022,LSU,SEC,puntReturnsOpponent,17
+2022,LSU,SEC,puntReturnTDs,0
+2022,LSU,SEC,puntReturnTDsOpponent,0
+2022,LSU,SEC,puntReturnYards,88
+2022,LSU,SEC,puntReturnYardsOpponent,186
+2022,LSU,SEC,rushingAttempts,518
+2022,LSU,SEC,rushingAttemptsOpponent,505
+2022,LSU,SEC,rushingTDs,39
+2022,LSU,SEC,rushingTDsOpponent,18
+2022,LSU,SEC,rushingYards,2573
+2022,LSU,SEC,rushingYardsOpponent,2072
+2022,LSU,SEC,sacks,27
+2022,LSU,SEC,sacksOpponent,45
+2022,LSU,SEC,tacklesForLoss,67
+2022,LSU,SEC,tacklesForLossOpponent,74
+2022,LSU,SEC,thirdDownConversions,87
+2022,LSU,SEC,thirdDownConversionsOpponent,78
+2022,LSU,SEC,thirdDowns,179
+2022,LSU,SEC,thirdDownsOpponent,200
+2022,LSU,SEC,totalYards,6343
+2022,LSU,SEC,totalYardsOpponent,4957
+2022,LSU,SEC,turnovers,19
+2022,LSU,SEC,turnoversOpponent,20
+2022,Mississippi State,SEC,firstDowns,296
+2022,Mississippi State,SEC,firstDownsOpponent,240
+2022,Mississippi State,SEC,fourthDownConversions,15
+2022,Mississippi State,SEC,fourthDownConversionsOpponent,12
+2022,Mississippi State,SEC,fourthDowns,29
+2022,Mississippi State,SEC,fourthDownsOpponent,26
+2022,Mississippi State,SEC,fumblesLost,10
+2022,Mississippi State,SEC,fumblesLostOpponent,7
+2022,Mississippi State,SEC,fumblesRecovered,11
+2022,Mississippi State,SEC,fumblesRecoveredOpponent,16
+2022,Mississippi State,SEC,games,13
+2022,Mississippi State,SEC,interceptions,9
+2022,Mississippi State,SEC,interceptionsOpponent,14
+2022,Mississippi State,SEC,interceptionTDs,3
+2022,Mississippi State,SEC,interceptionTDsOpponent,0
+2022,Mississippi State,SEC,interceptionYards,294
+2022,Mississippi State,SEC,interceptionYardsOpponent,73
+2022,Mississippi State,SEC,kickReturns,31
+2022,Mississippi State,SEC,kickReturnsOpponent,34
+2022,Mississippi State,SEC,kickReturnTDs,1
+2022,Mississippi State,SEC,kickReturnTDsOpponent,0
+2022,Mississippi State,SEC,kickReturnYards,807
+2022,Mississippi State,SEC,kickReturnYardsOpponent,596
+2022,Mississippi State,SEC,netPassingYards,4035
+2022,Mississippi State,SEC,netPassingYardsOpponent,2703
+2022,Mississippi State,SEC,passAttempts,634
+2022,Mississippi State,SEC,passAttemptsOpponent,422
+2022,Mississippi State,SEC,passCompletions,427
+2022,Mississippi State,SEC,passCompletionsOpponent,252
+2022,Mississippi State,SEC,passesIntercepted,14
+2022,Mississippi State,SEC,passesInterceptedOpponent,9
+2022,Mississippi State,SEC,passingTDs,36
+2022,Mississippi State,SEC,passingTDsOpponent,15
+2022,Mississippi State,SEC,penalties,82
+2022,Mississippi State,SEC,penaltiesOpponent,84
+2022,Mississippi State,SEC,penaltyYards,790
+2022,Mississippi State,SEC,penaltyYardsOpponent,643
+2022,Mississippi State,SEC,possessionTime,23380
+2022,Mississippi State,SEC,possessionTimeOpponent,23263
+2022,Mississippi State,SEC,puntReturns,21
+2022,Mississippi State,SEC,puntReturnsOpponent,16
+2022,Mississippi State,SEC,puntReturnTDs,1
+2022,Mississippi State,SEC,puntReturnTDsOpponent,1
+2022,Mississippi State,SEC,puntReturnYards,213
+2022,Mississippi State,SEC,puntReturnYardsOpponent,137
+2022,Mississippi State,SEC,rushingAttempts,296
+2022,Mississippi State,SEC,rushingAttemptsOpponent,447
+2022,Mississippi State,SEC,rushingTDs,12
+2022,Mississippi State,SEC,rushingTDsOpponent,20
+2022,Mississippi State,SEC,rushingYards,1071
+2022,Mississippi State,SEC,rushingYardsOpponent,1757
+2022,Mississippi State,SEC,sacks,31
+2022,Mississippi State,SEC,sacksOpponent,26
+2022,Mississippi State,SEC,tacklesForLoss,83
+2022,Mississippi State,SEC,tacklesForLossOpponent,55
+2022,Mississippi State,SEC,thirdDownConversions,69
+2022,Mississippi State,SEC,thirdDownConversionsOpponent,61
+2022,Mississippi State,SEC,thirdDowns,176
+2022,Mississippi State,SEC,thirdDownsOpponent,182
+2022,Mississippi State,SEC,totalYards,5106
+2022,Mississippi State,SEC,totalYardsOpponent,4460
+2022,Mississippi State,SEC,turnovers,19
+2022,Mississippi State,SEC,turnoversOpponent,21
+2022,Missouri,SEC,firstDowns,241
+2022,Missouri,SEC,firstDownsOpponent,241
+2022,Missouri,SEC,fourthDownConversions,9
+2022,Missouri,SEC,fourthDownConversionsOpponent,12
+2022,Missouri,SEC,fourthDowns,18
+2022,Missouri,SEC,fourthDownsOpponent,19
+2022,Missouri,SEC,fumblesLost,11
+2022,Missouri,SEC,fumblesLostOpponent,7
+2022,Missouri,SEC,fumblesRecovered,12
+2022,Missouri,SEC,fumblesRecoveredOpponent,15
+2022,Missouri,SEC,games,13
+2022,Missouri,SEC,interceptions,9
+2022,Missouri,SEC,interceptionsOpponent,11
+2022,Missouri,SEC,interceptionTDs,2
+2022,Missouri,SEC,interceptionTDsOpponent,1
+2022,Missouri,SEC,interceptionYards,99
+2022,Missouri,SEC,interceptionYardsOpponent,87
+2022,Missouri,SEC,kickReturns,14
+2022,Missouri,SEC,kickReturnsOpponent,11
+2022,Missouri,SEC,kickReturnTDs,0
+2022,Missouri,SEC,kickReturnTDsOpponent,0
+2022,Missouri,SEC,kickReturnYards,229
+2022,Missouri,SEC,kickReturnYardsOpponent,150
+2022,Missouri,SEC,netPassingYards,2771
+2022,Missouri,SEC,netPassingYardsOpponent,2799
+2022,Missouri,SEC,passAttempts,391
+2022,Missouri,SEC,passAttemptsOpponent,394
+2022,Missouri,SEC,passCompletions,247
+2022,Missouri,SEC,passCompletionsOpponent,235
+2022,Missouri,SEC,passesIntercepted,11
+2022,Missouri,SEC,passesInterceptedOpponent,9
+2022,Missouri,SEC,passingTDs,13
+2022,Missouri,SEC,passingTDsOpponent,18
+2022,Missouri,SEC,penalties,101
+2022,Missouri,SEC,penaltiesOpponent,70
+2022,Missouri,SEC,penaltyYards,828
+2022,Missouri,SEC,penaltyYardsOpponent,553
+2022,Missouri,SEC,possessionTime,24245
+2022,Missouri,SEC,possessionTimeOpponent,22495
+2022,Missouri,SEC,puntReturns,13
+2022,Missouri,SEC,puntReturnsOpponent,14
+2022,Missouri,SEC,puntReturnTDs,1
+2022,Missouri,SEC,puntReturnTDsOpponent,1
+2022,Missouri,SEC,puntReturnYards,147
+2022,Missouri,SEC,puntReturnYardsOpponent,204
+2022,Missouri,SEC,rushingAttempts,493
+2022,Missouri,SEC,rushingAttemptsOpponent,444
+2022,Missouri,SEC,rushingTDs,21
+2022,Missouri,SEC,rushingTDsOpponent,19
+2022,Missouri,SEC,rushingYards,2034
+2022,Missouri,SEC,rushingYardsOpponent,1632
+2022,Missouri,SEC,sacks,35
+2022,Missouri,SEC,sacksOpponent,23
+2022,Missouri,SEC,tacklesForLoss,91
+2022,Missouri,SEC,tacklesForLossOpponent,91
+2022,Missouri,SEC,thirdDownConversions,77
+2022,Missouri,SEC,thirdDownConversionsOpponent,65
+2022,Missouri,SEC,thirdDowns,193
+2022,Missouri,SEC,thirdDownsOpponent,186
+2022,Missouri,SEC,totalYards,4805
+2022,Missouri,SEC,totalYardsOpponent,4431
+2022,Missouri,SEC,turnovers,20
+2022,Missouri,SEC,turnoversOpponent,18
+2022,Ole Miss,SEC,firstDowns,327
+2022,Ole Miss,SEC,firstDownsOpponent,277
+2022,Ole Miss,SEC,fourthDownConversions,17
+2022,Ole Miss,SEC,fourthDownConversionsOpponent,17
+2022,Ole Miss,SEC,fourthDowns,35
+2022,Ole Miss,SEC,fourthDownsOpponent,36
+2022,Ole Miss,SEC,fumblesLost,9
+2022,Ole Miss,SEC,fumblesLostOpponent,12
+2022,Ole Miss,SEC,fumblesRecovered,22
+2022,Ole Miss,SEC,fumblesRecoveredOpponent,15
+2022,Ole Miss,SEC,games,13
+2022,Ole Miss,SEC,interceptions,11
+2022,Ole Miss,SEC,interceptionsOpponent,8
+2022,Ole Miss,SEC,interceptionTDs,0
+2022,Ole Miss,SEC,interceptionTDsOpponent,0
+2022,Ole Miss,SEC,interceptionYards,34
+2022,Ole Miss,SEC,interceptionYardsOpponent,28
+2022,Ole Miss,SEC,kickReturns,26
+2022,Ole Miss,SEC,kickReturnsOpponent,24
+2022,Ole Miss,SEC,kickReturnTDs,0
+2022,Ole Miss,SEC,kickReturnTDsOpponent,1
+2022,Ole Miss,SEC,kickReturnYards,447
+2022,Ole Miss,SEC,kickReturnYardsOpponent,536
+2022,Ole Miss,SEC,netPassingYards,3118
+2022,Ole Miss,SEC,netPassingYardsOpponent,2858
+2022,Ole Miss,SEC,passAttempts,386
+2022,Ole Miss,SEC,passAttemptsOpponent,432
+2022,Ole Miss,SEC,passCompletions,239
+2022,Ole Miss,SEC,passCompletionsOpponent,274
+2022,Ole Miss,SEC,passesIntercepted,8
+2022,Ole Miss,SEC,passesInterceptedOpponent,11
+2022,Ole Miss,SEC,passingTDs,22
+2022,Ole Miss,SEC,passingTDsOpponent,22
+2022,Ole Miss,SEC,penalties,88
+2022,Ole Miss,SEC,penaltiesOpponent,77
+2022,Ole Miss,SEC,penaltyYards,821
+2022,Ole Miss,SEC,penaltyYardsOpponent,612
+2022,Ole Miss,SEC,possessionTime,20590
+2022,Ole Miss,SEC,possessionTimeOpponent,26164
+2022,Ole Miss,SEC,puntReturns,17
+2022,Ole Miss,SEC,puntReturnsOpponent,11
+2022,Ole Miss,SEC,puntReturnTDs,0
+2022,Ole Miss,SEC,puntReturnTDsOpponent,0
+2022,Ole Miss,SEC,puntReturnYards,111
+2022,Ole Miss,SEC,puntReturnYardsOpponent,71
+2022,Ole Miss,SEC,rushingAttempts,614
+2022,Ole Miss,SEC,rushingAttemptsOpponent,515
+2022,Ole Miss,SEC,rushingTDs,33
+2022,Ole Miss,SEC,rushingTDsOpponent,18
+2022,Ole Miss,SEC,rushingYards,3335
+2022,Ole Miss,SEC,rushingYardsOpponent,2186
+2022,Ole Miss,SEC,sacks,33
+2022,Ole Miss,SEC,sacksOpponent,14
+2022,Ole Miss,SEC,tacklesForLoss,74
+2022,Ole Miss,SEC,tacklesForLossOpponent,79
+2022,Ole Miss,SEC,thirdDownConversions,88
+2022,Ole Miss,SEC,thirdDownConversionsOpponent,76
+2022,Ole Miss,SEC,thirdDowns,187
+2022,Ole Miss,SEC,thirdDownsOpponent,197
+2022,Ole Miss,SEC,totalYards,6453
+2022,Ole Miss,SEC,totalYardsOpponent,5044
+2022,Ole Miss,SEC,turnovers,20
+2022,Ole Miss,SEC,turnoversOpponent,20
+2022,South Carolina,SEC,firstDowns,246
+2022,South Carolina,SEC,firstDownsOpponent,292
+2022,South Carolina,SEC,fourthDownConversions,13
+2022,South Carolina,SEC,fourthDownConversionsOpponent,10
+2022,South Carolina,SEC,fourthDowns,21
+2022,South Carolina,SEC,fourthDownsOpponent,17
+2022,South Carolina,SEC,fumblesLost,13
+2022,South Carolina,SEC,fumblesLostOpponent,8
+2022,South Carolina,SEC,fumblesRecovered,11
+2022,South Carolina,SEC,fumblesRecoveredOpponent,18
+2022,South Carolina,SEC,games,13
+2022,South Carolina,SEC,interceptions,14
+2022,South Carolina,SEC,interceptionsOpponent,15
+2022,South Carolina,SEC,interceptionTDs,2
+2022,South Carolina,SEC,interceptionTDsOpponent,1
+2022,South Carolina,SEC,interceptionYards,299
+2022,South Carolina,SEC,interceptionYardsOpponent,81
+2022,South Carolina,SEC,kickReturns,23
+2022,South Carolina,SEC,kickReturnsOpponent,20
+2022,South Carolina,SEC,kickReturnTDs,1
+2022,South Carolina,SEC,kickReturnTDsOpponent,0
+2022,South Carolina,SEC,kickReturnYards,578
+2022,South Carolina,SEC,kickReturnYardsOpponent,328
+2022,South Carolina,SEC,netPassingYards,3379
+2022,South Carolina,SEC,netPassingYardsOpponent,2688
+2022,South Carolina,SEC,passAttempts,419
+2022,South Carolina,SEC,passAttemptsOpponent,404
+2022,South Carolina,SEC,passCompletions,281
+2022,South Carolina,SEC,passCompletionsOpponent,217
+2022,South Carolina,SEC,passesIntercepted,15
+2022,South Carolina,SEC,passesInterceptedOpponent,14
+2022,South Carolina,SEC,passingTDs,23
+2022,South Carolina,SEC,passingTDsOpponent,24
+2022,South Carolina,SEC,penalties,88
+2022,South Carolina,SEC,penaltiesOpponent,84
+2022,South Carolina,SEC,penaltyYards,814
+2022,South Carolina,SEC,penaltyYardsOpponent,703
+2022,South Carolina,SEC,possessionTime,22366
+2022,South Carolina,SEC,possessionTimeOpponent,24391
+2022,South Carolina,SEC,puntReturns,19
+2022,South Carolina,SEC,puntReturnsOpponent,19
+2022,South Carolina,SEC,puntReturnTDs,2
+2022,South Carolina,SEC,puntReturnTDsOpponent,0
+2022,South Carolina,SEC,puntReturnYards,278
+2022,South Carolina,SEC,puntReturnYardsOpponent,94
+2022,South Carolina,SEC,rushingAttempts,410
+2022,South Carolina,SEC,rushingAttemptsOpponent,521
+2022,South Carolina,SEC,rushingTDs,27
+2022,South Carolina,SEC,rushingTDsOpponent,23
+2022,South Carolina,SEC,rushingYards,1555
+2022,South Carolina,SEC,rushingYardsOpponent,2574
+2022,South Carolina,SEC,sacks,20
+2022,South Carolina,SEC,sacksOpponent,28
+2022,South Carolina,SEC,tacklesForLoss,56
+2022,South Carolina,SEC,tacklesForLossOpponent,94
+2022,South Carolina,SEC,thirdDownConversions,62
+2022,South Carolina,SEC,thirdDownConversionsOpponent,79
+2022,South Carolina,SEC,thirdDowns,159
+2022,South Carolina,SEC,thirdDownsOpponent,181
+2022,South Carolina,SEC,totalYards,4934
+2022,South Carolina,SEC,totalYardsOpponent,5262
+2022,South Carolina,SEC,turnovers,27
+2022,South Carolina,SEC,turnoversOpponent,23
+2022,Tennessee,SEC,firstDowns,330
+2022,Tennessee,SEC,firstDownsOpponent,307
+2022,Tennessee,SEC,fourthDownConversions,23
+2022,Tennessee,SEC,fourthDownConversionsOpponent,14
+2022,Tennessee,SEC,fourthDowns,34
+2022,Tennessee,SEC,fourthDownsOpponent,33
+2022,Tennessee,SEC,fumblesLost,8
+2022,Tennessee,SEC,fumblesLostOpponent,11
+2022,Tennessee,SEC,fumblesRecovered,13
+2022,Tennessee,SEC,fumblesRecoveredOpponent,11
+2022,Tennessee,SEC,games,13
+2022,Tennessee,SEC,interceptions,3
+2022,Tennessee,SEC,interceptionsOpponent,11
+2022,Tennessee,SEC,interceptionTDs,0
+2022,Tennessee,SEC,interceptionTDsOpponent,0
+2022,Tennessee,SEC,interceptionYards,70
+2022,Tennessee,SEC,interceptionYardsOpponent,18
+2022,Tennessee,SEC,kickReturns,18
+2022,Tennessee,SEC,kickReturnsOpponent,41
+2022,Tennessee,SEC,kickReturnTDs,0
+2022,Tennessee,SEC,kickReturnTDsOpponent,0
+2022,Tennessee,SEC,kickReturnYards,340
+2022,Tennessee,SEC,kickReturnYardsOpponent,719
+2022,Tennessee,SEC,netPassingYards,4239
+2022,Tennessee,SEC,netPassingYardsOpponent,3760
+2022,Tennessee,SEC,passAttempts,422
+2022,Tennessee,SEC,passAttemptsOpponent,531
+2022,Tennessee,SEC,passCompletions,290
+2022,Tennessee,SEC,passCompletionsOpponent,332
+2022,Tennessee,SEC,passesIntercepted,11
+2022,Tennessee,SEC,passesInterceptedOpponent,3
+2022,Tennessee,SEC,passingTDs,38
+2022,Tennessee,SEC,passingTDsOpponent,20
+2022,Tennessee,SEC,penalties,105
+2022,Tennessee,SEC,penaltiesOpponent,111
+2022,Tennessee,SEC,penaltyYards,904
+2022,Tennessee,SEC,penaltyYardsOpponent,876
+2022,Tennessee,SEC,possessionTime,19684
+2022,Tennessee,SEC,possessionTimeOpponent,27116
+2022,Tennessee,SEC,puntReturns,20
+2022,Tennessee,SEC,puntReturnsOpponent,4
+2022,Tennessee,SEC,puntReturnTDs,1
+2022,Tennessee,SEC,puntReturnTDsOpponent,0
+2022,Tennessee,SEC,puntReturnYards,331
+2022,Tennessee,SEC,puntReturnYardsOpponent,29
+2022,Tennessee,SEC,rushingAttempts,523
+2022,Tennessee,SEC,rushingAttemptsOpponent,460
+2022,Tennessee,SEC,rushingTDs,40
+2022,Tennessee,SEC,rushingTDsOpponent,16
+2022,Tennessee,SEC,rushingYards,2593
+2022,Tennessee,SEC,rushingYardsOpponent,1509
+2022,Tennessee,SEC,sacks,31
+2022,Tennessee,SEC,sacksOpponent,27
+2022,Tennessee,SEC,tacklesForLoss,91
+2022,Tennessee,SEC,tacklesForLossOpponent,52
+2022,Tennessee,SEC,thirdDownConversions,68
+2022,Tennessee,SEC,thirdDownConversionsOpponent,65
+2022,Tennessee,SEC,thirdDowns,166
+2022,Tennessee,SEC,thirdDownsOpponent,189
+2022,Tennessee,SEC,totalYards,6832
+2022,Tennessee,SEC,totalYardsOpponent,5269
+2022,Tennessee,SEC,turnovers,11
+2022,Tennessee,SEC,turnoversOpponent,22
+2022,Texas A&M,SEC,firstDowns,233
+2022,Texas A&M,SEC,firstDownsOpponent,249
+2022,Texas A&M,SEC,fourthDownConversions,4
+2022,Texas A&M,SEC,fourthDownConversionsOpponent,11
+2022,Texas A&M,SEC,fourthDowns,11
+2022,Texas A&M,SEC,fourthDownsOpponent,22
+2022,Texas A&M,SEC,fumblesLost,12
+2022,Texas A&M,SEC,fumblesLostOpponent,12
+2022,Texas A&M,SEC,fumblesRecovered,19
+2022,Texas A&M,SEC,fumblesRecoveredOpponent,15
+2022,Texas A&M,SEC,games,12
+2022,Texas A&M,SEC,interceptions,6
+2022,Texas A&M,SEC,interceptionsOpponent,4
+2022,Texas A&M,SEC,interceptionTDs,0
+2022,Texas A&M,SEC,interceptionTDsOpponent,1
+2022,Texas A&M,SEC,interceptionYards,13
+2022,Texas A&M,SEC,interceptionYardsOpponent,154
+2022,Texas A&M,SEC,kickReturns,23
+2022,Texas A&M,SEC,kickReturnsOpponent,7
+2022,Texas A&M,SEC,kickReturnTDs,1
+2022,Texas A&M,SEC,kickReturnTDsOpponent,1
+2022,Texas A&M,SEC,kickReturnYards,510
+2022,Texas A&M,SEC,kickReturnYardsOpponent,200
+2022,Texas A&M,SEC,netPassingYards,2633
+2022,Texas A&M,SEC,netPassingYardsOpponent,1874
+2022,Texas A&M,SEC,passAttempts,391
+2022,Texas A&M,SEC,passAttemptsOpponent,327
+2022,Texas A&M,SEC,passCompletions,220
+2022,Texas A&M,SEC,passCompletionsOpponent,184
+2022,Texas A&M,SEC,passesIntercepted,4
+2022,Texas A&M,SEC,passesInterceptedOpponent,6
+2022,Texas A&M,SEC,passingTDs,18
+2022,Texas A&M,SEC,passingTDsOpponent,15
+2022,Texas A&M,SEC,penalties,76
+2022,Texas A&M,SEC,penaltiesOpponent,84
+2022,Texas A&M,SEC,penaltyYards,589
+2022,Texas A&M,SEC,penaltyYardsOpponent,725
+2022,Texas A&M,SEC,possessionTime,20049
+2022,Texas A&M,SEC,possessionTimeOpponent,23137
+2022,Texas A&M,SEC,puntReturns,22
+2022,Texas A&M,SEC,puntReturnsOpponent,13
+2022,Texas A&M,SEC,puntReturnTDs,0
+2022,Texas A&M,SEC,puntReturnTDsOpponent,0
+2022,Texas A&M,SEC,puntReturnYards,121
+2022,Texas A&M,SEC,puntReturnYardsOpponent,58
+2022,Texas A&M,SEC,rushingAttempts,367
+2022,Texas A&M,SEC,rushingAttemptsOpponent,520
+2022,Texas A&M,SEC,rushingTDs,12
+2022,Texas A&M,SEC,rushingTDsOpponent,13
+2022,Texas A&M,SEC,rushingYards,1707
+2022,Texas A&M,SEC,rushingYardsOpponent,2508
+2022,Texas A&M,SEC,sacks,19
+2022,Texas A&M,SEC,sacksOpponent,25
+2022,Texas A&M,SEC,tacklesForLoss,66
+2022,Texas A&M,SEC,tacklesForLossOpponent,65
+2022,Texas A&M,SEC,thirdDownConversions,55
+2022,Texas A&M,SEC,thirdDownConversionsOpponent,62
+2022,Texas A&M,SEC,thirdDowns,153
+2022,Texas A&M,SEC,thirdDownsOpponent,174
+2022,Texas A&M,SEC,totalYards,4340
+2022,Texas A&M,SEC,totalYardsOpponent,4382
+2022,Texas A&M,SEC,turnovers,18
+2022,Texas A&M,SEC,turnoversOpponent,16
+2022,Vanderbilt,SEC,firstDowns,210
+2022,Vanderbilt,SEC,firstDownsOpponent,255
+2022,Vanderbilt,SEC,fourthDownConversions,11
+2022,Vanderbilt,SEC,fourthDownConversionsOpponent,12
+2022,Vanderbilt,SEC,fourthDowns,29
+2022,Vanderbilt,SEC,fourthDownsOpponent,27
+2022,Vanderbilt,SEC,fumblesLost,10
+2022,Vanderbilt,SEC,fumblesLostOpponent,10
+2022,Vanderbilt,SEC,fumblesRecovered,16
+2022,Vanderbilt,SEC,fumblesRecoveredOpponent,14
+2022,Vanderbilt,SEC,games,12
+2022,Vanderbilt,SEC,interceptions,6
+2022,Vanderbilt,SEC,interceptionsOpponent,6
+2022,Vanderbilt,SEC,interceptionTDs,0
+2022,Vanderbilt,SEC,interceptionTDsOpponent,1
+2022,Vanderbilt,SEC,interceptionYards,41
+2022,Vanderbilt,SEC,interceptionYardsOpponent,36
+2022,Vanderbilt,SEC,kickReturns,24
+2022,Vanderbilt,SEC,kickReturnsOpponent,24
+2022,Vanderbilt,SEC,kickReturnTDs,0
+2022,Vanderbilt,SEC,kickReturnTDsOpponent,0
+2022,Vanderbilt,SEC,kickReturnYards,511
+2022,Vanderbilt,SEC,kickReturnYardsOpponent,448
+2022,Vanderbilt,SEC,netPassingYards,2248
+2022,Vanderbilt,SEC,netPassingYardsOpponent,3486
+2022,Vanderbilt,SEC,passAttempts,346
+2022,Vanderbilt,SEC,passAttemptsOpponent,399
+2022,Vanderbilt,SEC,passCompletions,200
+2022,Vanderbilt,SEC,passCompletionsOpponent,257
+2022,Vanderbilt,SEC,passesIntercepted,6
+2022,Vanderbilt,SEC,passesInterceptedOpponent,6
+2022,Vanderbilt,SEC,passingTDs,22
+2022,Vanderbilt,SEC,passingTDsOpponent,29
+2022,Vanderbilt,SEC,penalties,63
+2022,Vanderbilt,SEC,penaltiesOpponent,72
+2022,Vanderbilt,SEC,penaltyYards,553
+2022,Vanderbilt,SEC,penaltyYardsOpponent,657
+2022,Vanderbilt,SEC,possessionTime,22752
+2022,Vanderbilt,SEC,possessionTimeOpponent,20444
+2022,Vanderbilt,SEC,puntReturns,9
+2022,Vanderbilt,SEC,puntReturnsOpponent,26
+2022,Vanderbilt,SEC,puntReturnTDs,0
+2022,Vanderbilt,SEC,puntReturnTDsOpponent,1
+2022,Vanderbilt,SEC,puntReturnYards,42
+2022,Vanderbilt,SEC,puntReturnYardsOpponent,379
+2022,Vanderbilt,SEC,rushingAttempts,445
+2022,Vanderbilt,SEC,rushingAttemptsOpponent,397
+2022,Vanderbilt,SEC,rushingTDs,13
+2022,Vanderbilt,SEC,rushingTDsOpponent,25
+2022,Vanderbilt,SEC,rushingYards,1919
+2022,Vanderbilt,SEC,rushingYardsOpponent,2050
+2022,Vanderbilt,SEC,sacks,17
+2022,Vanderbilt,SEC,sacksOpponent,15
+2022,Vanderbilt,SEC,tacklesForLoss,56
+2022,Vanderbilt,SEC,tacklesForLossOpponent,58
+2022,Vanderbilt,SEC,thirdDownConversions,63
+2022,Vanderbilt,SEC,thirdDownConversionsOpponent,60
+2022,Vanderbilt,SEC,thirdDowns,171
+2022,Vanderbilt,SEC,thirdDownsOpponent,151
+2022,Vanderbilt,SEC,totalYards,4167
+2022,Vanderbilt,SEC,totalYardsOpponent,5536
+2022,Vanderbilt,SEC,turnovers,16
+2022,Vanderbilt,SEC,turnoversOpponent,16
+2023,Alabama,SEC,firstDowns,277
+2023,Alabama,SEC,firstDownsOpponent,228
+2023,Alabama,SEC,fourthDownConversions,5
+2023,Alabama,SEC,fourthDownConversionsOpponent,11
+2023,Alabama,SEC,fourthDowns,7
+2023,Alabama,SEC,fourthDownsOpponent,27
+2023,Alabama,SEC,fumblesLost,5
+2023,Alabama,SEC,fumblesLostOpponent,7
+2023,Alabama,SEC,fumblesRecovered,7
+2023,Alabama,SEC,fumblesRecoveredOpponent,5
+2023,Alabama,SEC,games,14
+2023,Alabama,SEC,interceptions,6
+2023,Alabama,SEC,interceptionsOpponent,12
+2023,Alabama,SEC,interceptionTDs,1
+2023,Alabama,SEC,interceptionTDsOpponent,0
+2023,Alabama,SEC,interceptionYards,125
+2023,Alabama,SEC,interceptionYardsOpponent,63
+2023,Alabama,SEC,kickReturns,25
+2023,Alabama,SEC,kickReturnsOpponent,27
+2023,Alabama,SEC,kickReturnTDs,0
+2023,Alabama,SEC,kickReturnTDsOpponent,0
+2023,Alabama,SEC,kickReturnYards,533
+2023,Alabama,SEC,kickReturnYardsOpponent,407
+2023,Alabama,SEC,netPassingYards,3086
+2023,Alabama,SEC,netPassingYardsOpponent,2675
+2023,Alabama,SEC,passAttempts,325
+2023,Alabama,SEC,passAttemptsOpponent,413
+2023,Alabama,SEC,passCompletions,208
+2023,Alabama,SEC,passCompletionsOpponent,245
+2023,Alabama,SEC,passesIntercepted,12
+2023,Alabama,SEC,passesInterceptedOpponent,6
+2023,Alabama,SEC,passingTDs,23
+2023,Alabama,SEC,passingTDsOpponent,17
+2023,Alabama,SEC,penalties,78
+2023,Alabama,SEC,penaltiesOpponent,72
+2023,Alabama,SEC,penaltyYards,655
+2023,Alabama,SEC,penaltyYardsOpponent,549
+2023,Alabama,SEC,possessionTime,25815
+2023,Alabama,SEC,possessionTimeOpponent,24585
+2023,Alabama,SEC,puntReturns,21
+2023,Alabama,SEC,puntReturnsOpponent,14
+2023,Alabama,SEC,puntReturnTDs,1
+2023,Alabama,SEC,puntReturnTDsOpponent,0
+2023,Alabama,SEC,puntReturnYards,178
+2023,Alabama,SEC,puntReturnYardsOpponent,120
+2023,Alabama,SEC,rushingAttempts,561
+2023,Alabama,SEC,rushingAttemptsOpponent,470
+2023,Alabama,SEC,rushingTDs,32
+2023,Alabama,SEC,rushingTDsOpponent,15
+2023,Alabama,SEC,rushingYards,2417
+2023,Alabama,SEC,rushingYardsOpponent,1749
+2023,Alabama,SEC,sacks,40
+2023,Alabama,SEC,sacksOpponent,49
+2023,Alabama,SEC,tacklesForLoss,84
+2023,Alabama,SEC,tacklesForLossOpponent,88
+2023,Alabama,SEC,thirdDownConversions,82
+2023,Alabama,SEC,thirdDownConversionsOpponent,63
+2023,Alabama,SEC,thirdDowns,182
+2023,Alabama,SEC,thirdDownsOpponent,191
+2023,Alabama,SEC,totalYards,5503
+2023,Alabama,SEC,totalYardsOpponent,4424
+2023,Alabama,SEC,turnovers,11
+2023,Alabama,SEC,turnoversOpponent,19
+2023,Arkansas,SEC,firstDowns,208
+2023,Arkansas,SEC,firstDownsOpponent,226
+2023,Arkansas,SEC,fourthDownConversions,10
+2023,Arkansas,SEC,fourthDownConversionsOpponent,6
+2023,Arkansas,SEC,fourthDowns,16
+2023,Arkansas,SEC,fourthDownsOpponent,12
+2023,Arkansas,SEC,fumblesLost,10
+2023,Arkansas,SEC,fumblesLostOpponent,5
+2023,Arkansas,SEC,fumblesRecovered,6
+2023,Arkansas,SEC,fumblesRecoveredOpponent,11
+2023,Arkansas,SEC,games,12
+2023,Arkansas,SEC,interceptions,8
+2023,Arkansas,SEC,interceptionsOpponent,12
+2023,Arkansas,SEC,interceptionTDs,4
+2023,Arkansas,SEC,interceptionTDsOpponent,1
+2023,Arkansas,SEC,interceptionYards,235
+2023,Arkansas,SEC,interceptionYardsOpponent,64
+2023,Arkansas,SEC,kickReturns,24
+2023,Arkansas,SEC,kickReturnsOpponent,9
+2023,Arkansas,SEC,kickReturnTDs,0
+2023,Arkansas,SEC,kickReturnTDsOpponent,0
+2023,Arkansas,SEC,kickReturnYards,475
+2023,Arkansas,SEC,kickReturnYardsOpponent,209
+2023,Arkansas,SEC,netPassingYards,2250
+2023,Arkansas,SEC,netPassingYardsOpponent,2433
+2023,Arkansas,SEC,passAttempts,323
+2023,Arkansas,SEC,passAttemptsOpponent,318
+2023,Arkansas,SEC,passCompletions,207
+2023,Arkansas,SEC,passCompletionsOpponent,192
+2023,Arkansas,SEC,passesIntercepted,12
+2023,Arkansas,SEC,passesInterceptedOpponent,8
+2023,Arkansas,SEC,passingTDs,22
+2023,Arkansas,SEC,passingTDsOpponent,23
+2023,Arkansas,SEC,penalties,76
+2023,Arkansas,SEC,penaltiesOpponent,65
+2023,Arkansas,SEC,penaltyYards,665
+2023,Arkansas,SEC,penaltyYardsOpponent,515
+2023,Arkansas,SEC,possessionTime,22123
+2023,Arkansas,SEC,possessionTimeOpponent,21077
+2023,Arkansas,SEC,puntReturns,16
+2023,Arkansas,SEC,puntReturnsOpponent,19
+2023,Arkansas,SEC,puntReturnTDs,1
+2023,Arkansas,SEC,puntReturnTDsOpponent,2
+2023,Arkansas,SEC,puntReturnYards,180
+2023,Arkansas,SEC,puntReturnYardsOpponent,345
+2023,Arkansas,SEC,rushingAttempts,472
+2023,Arkansas,SEC,rushingAttemptsOpponent,437
+2023,Arkansas,SEC,rushingTDs,9
+2023,Arkansas,SEC,rushingTDsOpponent,13
+2023,Arkansas,SEC,rushingYards,1668
+2023,Arkansas,SEC,rushingYardsOpponent,1853
+2023,Arkansas,SEC,sacks,29
+2023,Arkansas,SEC,sacksOpponent,47
+2023,Arkansas,SEC,tacklesForLoss,75
+2023,Arkansas,SEC,tacklesForLossOpponent,93
+2023,Arkansas,SEC,thirdDownConversions,67
+2023,Arkansas,SEC,thirdDownConversionsOpponent,59
+2023,Arkansas,SEC,thirdDowns,175
+2023,Arkansas,SEC,thirdDownsOpponent,158
+2023,Arkansas,SEC,totalYards,3918
+2023,Arkansas,SEC,totalYardsOpponent,4286
+2023,Arkansas,SEC,turnovers,18
+2023,Arkansas,SEC,turnoversOpponent,17
+2023,Auburn,SEC,firstDowns,241
+2023,Auburn,SEC,firstDownsOpponent,223
+2023,Auburn,SEC,fourthDownConversions,13
+2023,Auburn,SEC,fourthDownConversionsOpponent,15
+2023,Auburn,SEC,fourthDowns,26
+2023,Auburn,SEC,fourthDownsOpponent,27
+2023,Auburn,SEC,fumblesLost,7
+2023,Auburn,SEC,fumblesLostOpponent,6
+2023,Auburn,SEC,fumblesRecovered,6
+2023,Auburn,SEC,fumblesRecoveredOpponent,7
+2023,Auburn,SEC,games,13
+2023,Auburn,SEC,interceptions,13
+2023,Auburn,SEC,interceptionsOpponent,12
+2023,Auburn,SEC,interceptionTDs,1
+2023,Auburn,SEC,interceptionTDsOpponent,2
+2023,Auburn,SEC,interceptionYards,179
+2023,Auburn,SEC,interceptionYardsOpponent,134
+2023,Auburn,SEC,kickReturns,34
+2023,Auburn,SEC,kickReturnsOpponent,17
+2023,Auburn,SEC,kickReturnTDs,0
+2023,Auburn,SEC,kickReturnTDsOpponent,0
+2023,Auburn,SEC,kickReturnYards,708
+2023,Auburn,SEC,kickReturnYardsOpponent,381
+2023,Auburn,SEC,netPassingYards,2109
+2023,Auburn,SEC,netPassingYardsOpponent,2628
+2023,Auburn,SEC,passAttempts,317
+2023,Auburn,SEC,passAttemptsOpponent,360
+2023,Auburn,SEC,passCompletions,189
+2023,Auburn,SEC,passCompletionsOpponent,212
+2023,Auburn,SEC,passesIntercepted,12
+2023,Auburn,SEC,passesInterceptedOpponent,13
+2023,Auburn,SEC,passingTDs,18
+2023,Auburn,SEC,passingTDsOpponent,19
+2023,Auburn,SEC,penalties,71
+2023,Auburn,SEC,penaltiesOpponent,86
+2023,Auburn,SEC,penaltyYards,570
+2023,Auburn,SEC,penaltyYardsOpponent,737
+2023,Auburn,SEC,possessionTime,22670
+2023,Auburn,SEC,possessionTimeOpponent,24130
+2023,Auburn,SEC,puntReturns,25
+2023,Auburn,SEC,puntReturnsOpponent,14
+2023,Auburn,SEC,puntReturnTDs,1
+2023,Auburn,SEC,puntReturnTDsOpponent,0
+2023,Auburn,SEC,puntReturnYards,250
+2023,Auburn,SEC,puntReturnYardsOpponent,74
+2023,Auburn,SEC,rushingAttempts,513
+2023,Auburn,SEC,rushingAttemptsOpponent,463
+2023,Auburn,SEC,rushingTDs,22
+2023,Auburn,SEC,rushingTDsOpponent,15
+2023,Auburn,SEC,rushingYards,2457
+2023,Auburn,SEC,rushingYardsOpponent,2015
+2023,Auburn,SEC,sacks,30
+2023,Auburn,SEC,sacksOpponent,34
+2023,Auburn,SEC,tacklesForLoss,77
+2023,Auburn,SEC,tacklesForLossOpponent,79
+2023,Auburn,SEC,thirdDownConversions,54
+2023,Auburn,SEC,thirdDownConversionsOpponent,52
+2023,Auburn,SEC,thirdDowns,166
+2023,Auburn,SEC,thirdDownsOpponent,164
+2023,Auburn,SEC,totalYards,4566
+2023,Auburn,SEC,totalYardsOpponent,4643
+2023,Auburn,SEC,turnovers,20
+2023,Auburn,SEC,turnoversOpponent,18
+2023,Florida,SEC,firstDowns,259
+2023,Florida,SEC,firstDownsOpponent,213
+2023,Florida,SEC,fourthDownConversions,9
+2023,Florida,SEC,fourthDownConversionsOpponent,4
+2023,Florida,SEC,fourthDowns,22
+2023,Florida,SEC,fourthDownsOpponent,13
+2023,Florida,SEC,fumblesLost,7
+2023,Florida,SEC,fumblesLostOpponent,4
+2023,Florida,SEC,fumblesRecovered,4
+2023,Florida,SEC,fumblesRecoveredOpponent,7
+2023,Florida,SEC,games,12
+2023,Florida,SEC,interceptions,5
+2023,Florida,SEC,interceptionsOpponent,3
+2023,Florida,SEC,interceptionTDs,0
+2023,Florida,SEC,interceptionTDsOpponent,0
+2023,Florida,SEC,interceptionYards,38
+2023,Florida,SEC,interceptionYardsOpponent,29
+2023,Florida,SEC,kickReturns,16
+2023,Florida,SEC,kickReturnsOpponent,15
+2023,Florida,SEC,kickReturnTDs,0
+2023,Florida,SEC,kickReturnTDsOpponent,0
+2023,Florida,SEC,kickReturnYards,331
+2023,Florida,SEC,kickReturnYardsOpponent,226
+2023,Florida,SEC,netPassingYards,3086
+2023,Florida,SEC,netPassingYardsOpponent,2716
+2023,Florida,SEC,passAttempts,389
+2023,Florida,SEC,passAttemptsOpponent,325
+2023,Florida,SEC,passCompletions,281
+2023,Florida,SEC,passCompletionsOpponent,195
+2023,Florida,SEC,passesIntercepted,3
+2023,Florida,SEC,passesInterceptedOpponent,5
+2023,Florida,SEC,passingTDs,20
+2023,Florida,SEC,passingTDsOpponent,18
+2023,Florida,SEC,penalties,79
+2023,Florida,SEC,penaltiesOpponent,72
+2023,Florida,SEC,penaltyYards,595
+2023,Florida,SEC,penaltyYardsOpponent,552
+2023,Florida,SEC,possessionTime,23838
+2023,Florida,SEC,possessionTimeOpponent,19362
+2023,Florida,SEC,puntReturns,14
+2023,Florida,SEC,puntReturnsOpponent,11
+2023,Florida,SEC,puntReturnTDs,0
+2023,Florida,SEC,puntReturnTDsOpponent,0
+2023,Florida,SEC,puntReturnYards,151
+2023,Florida,SEC,puntReturnYardsOpponent,92
+2023,Florida,SEC,rushingAttempts,422
+2023,Florida,SEC,rushingAttemptsOpponent,386
+2023,Florida,SEC,rushingTDs,21
+2023,Florida,SEC,rushingTDsOpponent,21
+2023,Florida,SEC,rushingYards,1819
+2023,Florida,SEC,rushingYardsOpponent,1867
+2023,Florida,SEC,sacks,22
+2023,Florida,SEC,sacksOpponent,38
+2023,Florida,SEC,tacklesForLoss,59
+2023,Florida,SEC,tacklesForLossOpponent,83
+2023,Florida,SEC,thirdDownConversions,55
+2023,Florida,SEC,thirdDownConversionsOpponent,52
+2023,Florida,SEC,thirdDowns,150
+2023,Florida,SEC,thirdDownsOpponent,145
+2023,Florida,SEC,totalYards,4905
+2023,Florida,SEC,totalYardsOpponent,4583
+2023,Florida,SEC,turnovers,12
+2023,Florida,SEC,turnoversOpponent,7
+2023,Georgia,SEC,firstDowns,363
+2023,Georgia,SEC,firstDownsOpponent,224
+2023,Georgia,SEC,fourthDownConversions,9
+2023,Georgia,SEC,fourthDownConversionsOpponent,17
+2023,Georgia,SEC,fourthDowns,12
+2023,Georgia,SEC,fourthDownsOpponent,30
+2023,Georgia,SEC,fumblesLost,7
+2023,Georgia,SEC,fumblesLostOpponent,3
+2023,Georgia,SEC,fumblesRecovered,3
+2023,Georgia,SEC,fumblesRecoveredOpponent,7
+2023,Georgia,SEC,games,14
+2023,Georgia,SEC,interceptions,7
+2023,Georgia,SEC,interceptionsOpponent,14
+2023,Georgia,SEC,interceptionTDs,1
+2023,Georgia,SEC,interceptionTDsOpponent,0
+2023,Georgia,SEC,interceptionYards,135
+2023,Georgia,SEC,interceptionYardsOpponent,158
+2023,Georgia,SEC,kickReturns,25
+2023,Georgia,SEC,kickReturnsOpponent,22
+2023,Georgia,SEC,kickReturnTDs,0
+2023,Georgia,SEC,kickReturnTDsOpponent,0
+2023,Georgia,SEC,kickReturnYards,610
+2023,Georgia,SEC,kickReturnYardsOpponent,350
+2023,Georgia,SEC,netPassingYards,4274
+2023,Georgia,SEC,netPassingYardsOpponent,2456
+2023,Georgia,SEC,passAttempts,456
+2023,Georgia,SEC,passAttemptsOpponent,427
+2023,Georgia,SEC,passCompletions,328
+2023,Georgia,SEC,passCompletionsOpponent,234
+2023,Georgia,SEC,passesIntercepted,14
+2023,Georgia,SEC,passesInterceptedOpponent,7
+2023,Georgia,SEC,passingTDs,29
+2023,Georgia,SEC,passingTDsOpponent,13
+2023,Georgia,SEC,penalties,62
+2023,Georgia,SEC,penaltiesOpponent,70
+2023,Georgia,SEC,penaltyYards,601
+2023,Georgia,SEC,penaltyYardsOpponent,545
+2023,Georgia,SEC,possessionTime,28119
+2023,Georgia,SEC,possessionTimeOpponent,22281
+2023,Georgia,SEC,puntReturns,24
+2023,Georgia,SEC,puntReturnTDs,1
+2023,Georgia,SEC,puntReturnYards,260
+2023,Georgia,SEC,rushingAttempts,501
+2023,Georgia,SEC,rushingAttemptsOpponent,421
+2023,Georgia,SEC,rushingTDs,40
+2023,Georgia,SEC,rushingTDsOpponent,13
+2023,Georgia,SEC,rushingYards,2676
+2023,Georgia,SEC,rushingYardsOpponent,1593
+2023,Georgia,SEC,sacks,29
+2023,Georgia,SEC,sacksOpponent,13
+2023,Georgia,SEC,tacklesForLoss,72
+2023,Georgia,SEC,tacklesForLossOpponent,58
+2023,Georgia,SEC,thirdDownConversions,89
+2023,Georgia,SEC,thirdDownConversionsOpponent,45
+2023,Georgia,SEC,thirdDowns,165
+2023,Georgia,SEC,thirdDownsOpponent,175
+2023,Georgia,SEC,totalYards,6950
+2023,Georgia,SEC,totalYardsOpponent,4049
+2023,Georgia,SEC,turnovers,14
+2023,Georgia,SEC,turnoversOpponent,17
+2023,Kentucky,SEC,firstDowns,220
+2023,Kentucky,SEC,firstDownsOpponent,262
+2023,Kentucky,SEC,fourthDownConversions,2
+2023,Kentucky,SEC,fourthDownConversionsOpponent,11
+2023,Kentucky,SEC,fourthDowns,10
+2023,Kentucky,SEC,fourthDownsOpponent,18
+2023,Kentucky,SEC,fumblesLost,8
+2023,Kentucky,SEC,fumblesLostOpponent,7
+2023,Kentucky,SEC,fumblesRecovered,7
+2023,Kentucky,SEC,fumblesRecoveredOpponent,8
+2023,Kentucky,SEC,games,13
+2023,Kentucky,SEC,interceptions,12
+2023,Kentucky,SEC,interceptionsOpponent,12
+2023,Kentucky,SEC,interceptionTDs,3
+2023,Kentucky,SEC,interceptionTDsOpponent,0
+2023,Kentucky,SEC,interceptionYards,181
+2023,Kentucky,SEC,interceptionYardsOpponent,37
+2023,Kentucky,SEC,kickReturns,23
+2023,Kentucky,SEC,kickReturnsOpponent,24
+2023,Kentucky,SEC,kickReturnTDs,3
+2023,Kentucky,SEC,kickReturnTDsOpponent,0
+2023,Kentucky,SEC,kickReturnYards,678
+2023,Kentucky,SEC,kickReturnYardsOpponent,552
+2023,Kentucky,SEC,netPassingYards,2751
+2023,Kentucky,SEC,netPassingYardsOpponent,3119
+2023,Kentucky,SEC,passAttempts,375
+2023,Kentucky,SEC,passAttemptsOpponent,431
+2023,Kentucky,SEC,passCompletions,211
+2023,Kentucky,SEC,passCompletionsOpponent,292
+2023,Kentucky,SEC,passesIntercepted,11
+2023,Kentucky,SEC,passesInterceptedOpponent,12
+2023,Kentucky,SEC,passingTDs,25
+2023,Kentucky,SEC,passingTDsOpponent,20
+2023,Kentucky,SEC,penalties,79
+2023,Kentucky,SEC,penaltiesOpponent,85
+2023,Kentucky,SEC,penaltyYards,661
+2023,Kentucky,SEC,penaltyYardsOpponent,762
+2023,Kentucky,SEC,possessionTime,21518
+2023,Kentucky,SEC,possessionTimeOpponent,25282
+2023,Kentucky,SEC,puntReturns,8
+2023,Kentucky,SEC,puntReturnsOpponent,11
+2023,Kentucky,SEC,puntReturnTDs,0
+2023,Kentucky,SEC,puntReturnTDsOpponent,0
+2023,Kentucky,SEC,puntReturnYards,73
+2023,Kentucky,SEC,puntReturnYardsOpponent,68
+2023,Kentucky,SEC,rushingAttempts,339
+2023,Kentucky,SEC,rushingAttemptsOpponent,450
+2023,Kentucky,SEC,rushingTDs,18
+2023,Kentucky,SEC,rushingTDsOpponent,19
+2023,Kentucky,SEC,rushingYards,1660
+2023,Kentucky,SEC,rushingYardsOpponent,1469
+2023,Kentucky,SEC,sacks,34
+2023,Kentucky,SEC,sacksOpponent,22
+2023,Kentucky,SEC,tacklesForLoss,84
+2023,Kentucky,SEC,tacklesForLossOpponent,66
+2023,Kentucky,SEC,thirdDownConversions,52
+2023,Kentucky,SEC,thirdDownConversionsOpponent,80
+2023,Kentucky,SEC,thirdDowns,138
+2023,Kentucky,SEC,thirdDownsOpponent,187
+2023,Kentucky,SEC,totalYards,4411
+2023,Kentucky,SEC,totalYardsOpponent,4588
+2023,Kentucky,SEC,turnovers,20
+2023,Kentucky,SEC,turnoversOpponent,19
+2023,LSU,SEC,firstDowns,334
+2023,LSU,SEC,firstDownsOpponent,274
+2023,LSU,SEC,fourthDownConversions,6
+2023,LSU,SEC,fourthDownConversionsOpponent,13
+2023,LSU,SEC,fourthDowns,15
+2023,LSU,SEC,fourthDownsOpponent,30
+2023,LSU,SEC,fumblesLost,3
+2023,LSU,SEC,fumblesLostOpponent,4
+2023,LSU,SEC,fumblesRecovered,4
+2023,LSU,SEC,fumblesRecoveredOpponent,3
+2023,LSU,SEC,games,13
+2023,LSU,SEC,interceptions,5
+2023,LSU,SEC,interceptionsOpponent,10
+2023,LSU,SEC,interceptionTDs,1
+2023,LSU,SEC,interceptionTDsOpponent,0
+2023,LSU,SEC,interceptionYards,107
+2023,LSU,SEC,interceptionYardsOpponent,38
+2023,LSU,SEC,kickReturns,22
+2023,LSU,SEC,kickReturnsOpponent,37
+2023,LSU,SEC,kickReturnTDs,0
+2023,LSU,SEC,kickReturnTDsOpponent,0
+2023,LSU,SEC,kickReturnYards,399
+2023,LSU,SEC,kickReturnYardsOpponent,723
+2023,LSU,SEC,netPassingYards,4407
+2023,LSU,SEC,netPassingYardsOpponent,3327
+2023,LSU,SEC,passAttempts,411
+2023,LSU,SEC,passAttemptsOpponent,420
+2023,LSU,SEC,passCompletions,286
+2023,LSU,SEC,passCompletionsOpponent,268
+2023,LSU,SEC,passesIntercepted,10
+2023,LSU,SEC,passesInterceptedOpponent,5
+2023,LSU,SEC,passingTDs,44
+2023,LSU,SEC,passingTDsOpponent,23
+2023,LSU,SEC,penalties,79
+2023,LSU,SEC,penaltiesOpponent,92
+2023,LSU,SEC,penaltyYards,672
+2023,LSU,SEC,penaltyYardsOpponent,744
+2023,LSU,SEC,possessionTime,22504
+2023,LSU,SEC,possessionTimeOpponent,24296
+2023,LSU,SEC,puntReturns,7
+2023,LSU,SEC,puntReturnsOpponent,2
+2023,LSU,SEC,puntReturnTDs,0
+2023,LSU,SEC,puntReturnTDsOpponent,0
+2023,LSU,SEC,puntReturnYards,74
+2023,LSU,SEC,puntReturnYardsOpponent,-1
+2023,LSU,SEC,rushingAttempts,430
+2023,LSU,SEC,rushingAttemptsOpponent,462
+2023,LSU,SEC,rushingTDs,34
+2023,LSU,SEC,rushingTDsOpponent,24
+2023,LSU,SEC,rushingYards,2658
+2023,LSU,SEC,rushingYardsOpponent,2089
+2023,LSU,SEC,sacks,31
+2023,LSU,SEC,sacksOpponent,22
+2023,LSU,SEC,tacklesForLoss,73
+2023,LSU,SEC,tacklesForLossOpponent,37
+2023,LSU,SEC,thirdDownConversions,71
+2023,LSU,SEC,thirdDownConversionsOpponent,78
+2023,LSU,SEC,thirdDowns,130
+2023,LSU,SEC,thirdDownsOpponent,174
+2023,LSU,SEC,totalYards,7065
+2023,LSU,SEC,totalYardsOpponent,5416
+2023,LSU,SEC,turnovers,8
+2023,LSU,SEC,turnoversOpponent,14
+2023,Mississippi State,SEC,firstDowns,199
+2023,Mississippi State,SEC,firstDownsOpponent,218
+2023,Mississippi State,SEC,fourthDownConversions,10
+2023,Mississippi State,SEC,fourthDownConversionsOpponent,16
+2023,Mississippi State,SEC,fourthDowns,24
+2023,Mississippi State,SEC,fourthDownsOpponent,28
+2023,Mississippi State,SEC,fumblesLost,4
+2023,Mississippi State,SEC,fumblesLostOpponent,5
+2023,Mississippi State,SEC,fumblesRecovered,5
+2023,Mississippi State,SEC,fumblesRecoveredOpponent,3
+2023,Mississippi State,SEC,games,12
+2023,Mississippi State,SEC,interceptions,10
+2023,Mississippi State,SEC,interceptionsOpponent,7
+2023,Mississippi State,SEC,interceptionTDs,0
+2023,Mississippi State,SEC,interceptionTDsOpponent,2
+2023,Mississippi State,SEC,interceptionYards,61
+2023,Mississippi State,SEC,interceptionYardsOpponent,75
+2023,Mississippi State,SEC,kickReturns,23
+2023,Mississippi State,SEC,kickReturnsOpponent,21
+2023,Mississippi State,SEC,kickReturnTDs,1
+2023,Mississippi State,SEC,kickReturnTDsOpponent,1
+2023,Mississippi State,SEC,kickReturnYards,550
+2023,Mississippi State,SEC,kickReturnYardsOpponent,418
+2023,Mississippi State,SEC,netPassingYards,2182
+2023,Mississippi State,SEC,netPassingYardsOpponent,2456
+2023,Mississippi State,SEC,passAttempts,348
+2023,Mississippi State,SEC,passAttemptsOpponent,340
+2023,Mississippi State,SEC,passCompletions,201
+2023,Mississippi State,SEC,passCompletionsOpponent,231
+2023,Mississippi State,SEC,passesIntercepted,7
+2023,Mississippi State,SEC,passesInterceptedOpponent,10
+2023,Mississippi State,SEC,passingTDs,15
+2023,Mississippi State,SEC,passingTDsOpponent,21
+2023,Mississippi State,SEC,penalties,75
+2023,Mississippi State,SEC,penaltiesOpponent,67
+2023,Mississippi State,SEC,penaltyYards,682
+2023,Mississippi State,SEC,penaltyYardsOpponent,546
+2023,Mississippi State,SEC,possessionTime,20641
+2023,Mississippi State,SEC,possessionTimeOpponent,22559
+2023,Mississippi State,SEC,puntReturns,17
+2023,Mississippi State,SEC,puntReturnsOpponent,9
+2023,Mississippi State,SEC,puntReturnTDs,1
+2023,Mississippi State,SEC,puntReturnTDsOpponent,0
+2023,Mississippi State,SEC,puntReturnYards,200
+2023,Mississippi State,SEC,puntReturnYardsOpponent,63
+2023,Mississippi State,SEC,rushingAttempts,401
+2023,Mississippi State,SEC,rushingAttemptsOpponent,449
+2023,Mississippi State,SEC,rushingTDs,12
+2023,Mississippi State,SEC,rushingTDsOpponent,14
+2023,Mississippi State,SEC,rushingYards,1761
+2023,Mississippi State,SEC,rushingYardsOpponent,1751
+2023,Mississippi State,SEC,sacks,27
+2023,Mississippi State,SEC,sacksOpponent,27
+2023,Mississippi State,SEC,tacklesForLoss,67
+2023,Mississippi State,SEC,tacklesForLossOpponent,69
+2023,Mississippi State,SEC,thirdDownConversions,49
+2023,Mississippi State,SEC,thirdDownConversionsOpponent,57
+2023,Mississippi State,SEC,thirdDowns,159
+2023,Mississippi State,SEC,thirdDownsOpponent,168
+2023,Mississippi State,SEC,totalYards,3943
+2023,Mississippi State,SEC,totalYardsOpponent,4207
+2023,Mississippi State,SEC,turnovers,14
+2023,Mississippi State,SEC,turnoversOpponent,12
+2023,Missouri,SEC,firstDowns,280
+2023,Missouri,SEC,firstDownsOpponent,233
+2023,Missouri,SEC,fourthDownConversions,11
+2023,Missouri,SEC,fourthDownConversionsOpponent,12
+2023,Missouri,SEC,fourthDowns,15
+2023,Missouri,SEC,fourthDownsOpponent,18
+2023,Missouri,SEC,fumblesLost,2
+2023,Missouri,SEC,fumblesLostOpponent,10
+2023,Missouri,SEC,fumblesRecovered,11
+2023,Missouri,SEC,fumblesRecoveredOpponent,3
+2023,Missouri,SEC,games,13
+2023,Missouri,SEC,interceptions,7
+2023,Missouri,SEC,interceptionsOpponent,9
+2023,Missouri,SEC,interceptionTDs,1
+2023,Missouri,SEC,interceptionTDsOpponent,1
+2023,Missouri,SEC,interceptionYards,47
+2023,Missouri,SEC,interceptionYardsOpponent,120
+2023,Missouri,SEC,kickReturns,22
+2023,Missouri,SEC,kickReturnsOpponent,28
+2023,Missouri,SEC,kickReturnTDs,0
+2023,Missouri,SEC,kickReturnTDsOpponent,0
+2023,Missouri,SEC,kickReturnYards,409
+2023,Missouri,SEC,kickReturnYardsOpponent,476
+2023,Missouri,SEC,netPassingYards,3395
+2023,Missouri,SEC,netPassingYardsOpponent,2767
+2023,Missouri,SEC,passAttempts,376
+2023,Missouri,SEC,passAttemptsOpponent,406
+2023,Missouri,SEC,passCompletions,247
+2023,Missouri,SEC,passCompletionsOpponent,250
+2023,Missouri,SEC,passesIntercepted,9
+2023,Missouri,SEC,passesInterceptedOpponent,7
+2023,Missouri,SEC,passingTDs,23
+2023,Missouri,SEC,passingTDsOpponent,22
+2023,Missouri,SEC,penalties,93
+2023,Missouri,SEC,penaltiesOpponent,97
+2023,Missouri,SEC,penaltyYards,705
+2023,Missouri,SEC,penaltyYardsOpponent,781
+2023,Missouri,SEC,possessionTime,23742
+2023,Missouri,SEC,possessionTimeOpponent,23058
+2023,Missouri,SEC,puntReturns,9
+2023,Missouri,SEC,puntReturnsOpponent,10
+2023,Missouri,SEC,puntReturnTDs,0
+2023,Missouri,SEC,puntReturnTDsOpponent,0
+2023,Missouri,SEC,puntReturnYards,71
+2023,Missouri,SEC,puntReturnYardsOpponent,58
+2023,Missouri,SEC,rushingAttempts,497
+2023,Missouri,SEC,rushingAttemptsOpponent,421
+2023,Missouri,SEC,rushingTDs,25
+2023,Missouri,SEC,rushingTDsOpponent,8
+2023,Missouri,SEC,rushingYards,2233
+2023,Missouri,SEC,rushingYardsOpponent,1600
+2023,Missouri,SEC,sacks,40
+2023,Missouri,SEC,sacksOpponent,25
+2023,Missouri,SEC,tacklesForLoss,89
+2023,Missouri,SEC,tacklesForLossOpponent,75
+2023,Missouri,SEC,thirdDownConversions,72
+2023,Missouri,SEC,thirdDownConversionsOpponent,66
+2023,Missouri,SEC,thirdDowns,169
+2023,Missouri,SEC,thirdDownsOpponent,182
+2023,Missouri,SEC,totalYards,5628
+2023,Missouri,SEC,totalYardsOpponent,4367
+2023,Missouri,SEC,turnovers,9
+2023,Missouri,SEC,turnoversOpponent,19
+2023,Ole Miss,SEC,firstDowns,305
+2023,Ole Miss,SEC,firstDownsOpponent,263
+2023,Ole Miss,SEC,fourthDownConversions,25
+2023,Ole Miss,SEC,fourthDownConversionsOpponent,12
+2023,Ole Miss,SEC,fourthDowns,36
+2023,Ole Miss,SEC,fourthDownsOpponent,29
+2023,Ole Miss,SEC,fumblesLost,1
+2023,Ole Miss,SEC,fumblesLostOpponent,5
+2023,Ole Miss,SEC,fumblesRecovered,5
+2023,Ole Miss,SEC,fumblesRecoveredOpponent,1
+2023,Ole Miss,SEC,games,13
+2023,Ole Miss,SEC,interceptions,6
+2023,Ole Miss,SEC,interceptionsOpponent,13
+2023,Ole Miss,SEC,interceptionTDs,0
+2023,Ole Miss,SEC,interceptionTDsOpponent,0
+2023,Ole Miss,SEC,interceptionYards,145
+2023,Ole Miss,SEC,interceptionYardsOpponent,102
+2023,Ole Miss,SEC,kickReturns,21
+2023,Ole Miss,SEC,kickReturnsOpponent,13
+2023,Ole Miss,SEC,kickReturnTDs,0
+2023,Ole Miss,SEC,kickReturnTDsOpponent,0
+2023,Ole Miss,SEC,kickReturnYards,309
+2023,Ole Miss,SEC,kickReturnYardsOpponent,171
+2023,Ole Miss,SEC,netPassingYards,3713
+2023,Ole Miss,SEC,netPassingYardsOpponent,2983
+2023,Ole Miss,SEC,passAttempts,395
+2023,Ole Miss,SEC,passAttemptsOpponent,414
+2023,Ole Miss,SEC,passCompletions,256
+2023,Ole Miss,SEC,passCompletionsOpponent,252
+2023,Ole Miss,SEC,passesIntercepted,13
+2023,Ole Miss,SEC,passesInterceptedOpponent,6
+2023,Ole Miss,SEC,passingTDs,26
+2023,Ole Miss,SEC,passingTDsOpponent,17
+2023,Ole Miss,SEC,penalties,93
+2023,Ole Miss,SEC,penaltiesOpponent,73
+2023,Ole Miss,SEC,penaltyYards,768
+2023,Ole Miss,SEC,penaltyYardsOpponent,621
+2023,Ole Miss,SEC,possessionTime,21639
+2023,Ole Miss,SEC,possessionTimeOpponent,25161
+2023,Ole Miss,SEC,puntReturns,14
+2023,Ole Miss,SEC,puntReturnsOpponent,17
+2023,Ole Miss,SEC,puntReturnTDs,1
+2023,Ole Miss,SEC,puntReturnTDsOpponent,0
+2023,Ole Miss,SEC,puntReturnYards,117
+2023,Ole Miss,SEC,puntReturnYardsOpponent,153
+2023,Ole Miss,SEC,rushingAttempts,535
+2023,Ole Miss,SEC,rushingAttemptsOpponent,496
+2023,Ole Miss,SEC,rushingTDs,29
+2023,Ole Miss,SEC,rushingTDsOpponent,19
+2023,Ole Miss,SEC,rushingYards,2294
+2023,Ole Miss,SEC,rushingYardsOpponent,1990
+2023,Ole Miss,SEC,sacks,35
+2023,Ole Miss,SEC,sacksOpponent,26
+2023,Ole Miss,SEC,tacklesForLoss,82
+2023,Ole Miss,SEC,tacklesForLossOpponent,92
+2023,Ole Miss,SEC,thirdDownConversions,65
+2023,Ole Miss,SEC,thirdDownConversionsOpponent,73
+2023,Ole Miss,SEC,thirdDowns,176
+2023,Ole Miss,SEC,thirdDownsOpponent,189
+2023,Ole Miss,SEC,totalYards,6007
+2023,Ole Miss,SEC,totalYardsOpponent,4973
+2023,Ole Miss,SEC,turnovers,7
+2023,Ole Miss,SEC,turnoversOpponent,18
+2023,South Carolina,SEC,firstDowns,217
+2023,South Carolina,SEC,firstDownsOpponent,255
+2023,South Carolina,SEC,fourthDownConversions,9
+2023,South Carolina,SEC,fourthDownConversionsOpponent,14
+2023,South Carolina,SEC,fourthDowns,24
+2023,South Carolina,SEC,fourthDownsOpponent,23
+2023,South Carolina,SEC,fumblesLost,5
+2023,South Carolina,SEC,fumblesLostOpponent,7
+2023,South Carolina,SEC,fumblesRecovered,7
+2023,South Carolina,SEC,fumblesRecoveredOpponent,5
+2023,South Carolina,SEC,games,12
+2023,South Carolina,SEC,interceptions,8
+2023,South Carolina,SEC,interceptionsOpponent,10
+2023,South Carolina,SEC,interceptionTDs,1
+2023,South Carolina,SEC,interceptionTDsOpponent,1
+2023,South Carolina,SEC,interceptionYards,129
+2023,South Carolina,SEC,interceptionYardsOpponent,27
+2023,South Carolina,SEC,kickReturns,20
+2023,South Carolina,SEC,kickReturnsOpponent,12
+2023,South Carolina,SEC,kickReturnTDs,0
+2023,South Carolina,SEC,kickReturnTDsOpponent,0
+2023,South Carolina,SEC,kickReturnYards,352
+2023,South Carolina,SEC,kickReturnYardsOpponent,233
+2023,South Carolina,SEC,netPassingYards,3336
+2023,South Carolina,SEC,netPassingYardsOpponent,2948
+2023,South Carolina,SEC,passAttempts,412
+2023,South Carolina,SEC,passAttemptsOpponent,399
+2023,South Carolina,SEC,passCompletions,283
+2023,South Carolina,SEC,passCompletionsOpponent,244
+2023,South Carolina,SEC,passesIntercepted,10
+2023,South Carolina,SEC,passesInterceptedOpponent,8
+2023,South Carolina,SEC,passingTDs,21
+2023,South Carolina,SEC,passingTDsOpponent,16
+2023,South Carolina,SEC,penalties,85
+2023,South Carolina,SEC,penaltiesOpponent,67
+2023,South Carolina,SEC,penaltyYards,661
+2023,South Carolina,SEC,penaltyYardsOpponent,530
+2023,South Carolina,SEC,possessionTime,20375
+2023,South Carolina,SEC,possessionTimeOpponent,22825
+2023,South Carolina,SEC,puntReturns,15
+2023,South Carolina,SEC,puntReturnsOpponent,12
+2023,South Carolina,SEC,puntReturnTDs,1
+2023,South Carolina,SEC,puntReturnTDsOpponent,0
+2023,South Carolina,SEC,puntReturnYards,112
+2023,South Carolina,SEC,puntReturnYardsOpponent,41
+2023,South Carolina,SEC,rushingAttempts,369
+2023,South Carolina,SEC,rushingAttemptsOpponent,463
+2023,South Carolina,SEC,rushingTDs,17
+2023,South Carolina,SEC,rushingTDsOpponent,19
+2023,South Carolina,SEC,rushingYards,1021
+2023,South Carolina,SEC,rushingYardsOpponent,1799
+2023,South Carolina,SEC,sacks,22
+2023,South Carolina,SEC,sacksOpponent,42
+2023,South Carolina,SEC,tacklesForLoss,55
+2023,South Carolina,SEC,tacklesForLossOpponent,93
+2023,South Carolina,SEC,thirdDownConversions,54
+2023,South Carolina,SEC,thirdDownConversionsOpponent,78
+2023,South Carolina,SEC,thirdDowns,161
+2023,South Carolina,SEC,thirdDownsOpponent,181
+2023,South Carolina,SEC,totalYards,4357
+2023,South Carolina,SEC,totalYardsOpponent,4747
+2023,South Carolina,SEC,turnovers,13
+2023,South Carolina,SEC,turnoversOpponent,17
+2023,Tennessee,SEC,firstDowns,284
+2023,Tennessee,SEC,firstDownsOpponent,243
+2023,Tennessee,SEC,fourthDownConversions,7
+2023,Tennessee,SEC,fourthDownConversionsOpponent,7
+2023,Tennessee,SEC,fourthDowns,18
+2023,Tennessee,SEC,fourthDownsOpponent,26
+2023,Tennessee,SEC,fumblesLost,7
+2023,Tennessee,SEC,fumblesLostOpponent,6
+2023,Tennessee,SEC,fumblesRecovered,6
+2023,Tennessee,SEC,fumblesRecoveredOpponent,7
+2023,Tennessee,SEC,games,13
+2023,Tennessee,SEC,interceptions,5
+2023,Tennessee,SEC,interceptionsOpponent,12
+2023,Tennessee,SEC,interceptionTDs,4
+2023,Tennessee,SEC,interceptionTDsOpponent,1
+2023,Tennessee,SEC,interceptionYards,239
+2023,Tennessee,SEC,interceptionYardsOpponent,109
+2023,Tennessee,SEC,kickReturns,15
+2023,Tennessee,SEC,kickReturnsOpponent,13
+2023,Tennessee,SEC,kickReturnTDs,0
+2023,Tennessee,SEC,kickReturnTDsOpponent,0
+2023,Tennessee,SEC,kickReturnYards,293
+2023,Tennessee,SEC,kickReturnYardsOpponent,277
+2023,Tennessee,SEC,netPassingYards,3163
+2023,Tennessee,SEC,netPassingYardsOpponent,2879
+2023,Tennessee,SEC,passAttempts,411
+2023,Tennessee,SEC,passAttemptsOpponent,414
+2023,Tennessee,SEC,passCompletions,263
+2023,Tennessee,SEC,passCompletionsOpponent,270
+2023,Tennessee,SEC,passesIntercepted,12
+2023,Tennessee,SEC,passesInterceptedOpponent,5
+2023,Tennessee,SEC,passingTDs,22
+2023,Tennessee,SEC,passingTDsOpponent,15
+2023,Tennessee,SEC,penalties,101
+2023,Tennessee,SEC,penaltiesOpponent,71
+2023,Tennessee,SEC,penaltyYards,883
+2023,Tennessee,SEC,penaltyYardsOpponent,518
+2023,Tennessee,SEC,possessionTime,19457
+2023,Tennessee,SEC,possessionTimeOpponent,27328
+2023,Tennessee,SEC,puntReturns,23
+2023,Tennessee,SEC,puntReturnsOpponent,8
+2023,Tennessee,SEC,puntReturnTDs,1
+2023,Tennessee,SEC,puntReturnTDsOpponent,0
+2023,Tennessee,SEC,puntReturnYards,251
+2023,Tennessee,SEC,puntReturnYardsOpponent,4
+2023,Tennessee,SEC,rushingAttempts,489
+2023,Tennessee,SEC,rushingAttemptsOpponent,463
+2023,Tennessee,SEC,rushingTDs,23
+2023,Tennessee,SEC,rushingTDsOpponent,13
+2023,Tennessee,SEC,rushingYards,2662
+2023,Tennessee,SEC,rushingYardsOpponent,1478
+2023,Tennessee,SEC,sacks,41
+2023,Tennessee,SEC,sacksOpponent,24
+2023,Tennessee,SEC,tacklesForLoss,101
+2023,Tennessee,SEC,tacklesForLossOpponent,54
+2023,Tennessee,SEC,thirdDownConversions,74
+2023,Tennessee,SEC,thirdDownConversionsOpponent,72
+2023,Tennessee,SEC,thirdDowns,176
+2023,Tennessee,SEC,thirdDownsOpponent,197
+2023,Tennessee,SEC,totalYards,5825
+2023,Tennessee,SEC,totalYardsOpponent,4357
+2023,Tennessee,SEC,turnovers,12
+2023,Tennessee,SEC,turnoversOpponent,18
+2023,Texas A&M,SEC,firstDowns,288
+2023,Texas A&M,SEC,firstDownsOpponent,214
+2023,Texas A&M,SEC,fourthDownConversions,12
+2023,Texas A&M,SEC,fourthDownConversionsOpponent,7
+2023,Texas A&M,SEC,fourthDowns,20
+2023,Texas A&M,SEC,fourthDownsOpponent,17
+2023,Texas A&M,SEC,fumblesLost,5
+2023,Texas A&M,SEC,fumblesLostOpponent,4
+2023,Texas A&M,SEC,fumblesRecovered,4
+2023,Texas A&M,SEC,fumblesRecoveredOpponent,5
+2023,Texas A&M,SEC,games,13
+2023,Texas A&M,SEC,interceptions,10
+2023,Texas A&M,SEC,interceptionsOpponent,9
+2023,Texas A&M,SEC,interceptionTDs,1
+2023,Texas A&M,SEC,interceptionTDsOpponent,2
+2023,Texas A&M,SEC,interceptionYards,37
+2023,Texas A&M,SEC,interceptionYardsOpponent,143
+2023,Texas A&M,SEC,kickReturns,23
+2023,Texas A&M,SEC,kickReturnsOpponent,38
+2023,Texas A&M,SEC,kickReturnTDs,0
+2023,Texas A&M,SEC,kickReturnTDsOpponent,2
+2023,Texas A&M,SEC,kickReturnYards,399
+2023,Texas A&M,SEC,kickReturnYardsOpponent,851
+2023,Texas A&M,SEC,netPassingYards,3520
+2023,Texas A&M,SEC,netPassingYardsOpponent,2696
+2023,Texas A&M,SEC,passAttempts,426
+2023,Texas A&M,SEC,passAttemptsOpponent,365
+2023,Texas A&M,SEC,passCompletions,274
+2023,Texas A&M,SEC,passCompletionsOpponent,217
+2023,Texas A&M,SEC,passesIntercepted,9
+2023,Texas A&M,SEC,passesInterceptedOpponent,10
+2023,Texas A&M,SEC,passingTDs,24
+2023,Texas A&M,SEC,passingTDsOpponent,19
+2023,Texas A&M,SEC,penalties,77
+2023,Texas A&M,SEC,penaltiesOpponent,108
+2023,Texas A&M,SEC,penaltyYards,591
+2023,Texas A&M,SEC,penaltyYardsOpponent,956
+2023,Texas A&M,SEC,possessionTime,24498
+2023,Texas A&M,SEC,possessionTimeOpponent,22302
+2023,Texas A&M,SEC,puntReturns,29
+2023,Texas A&M,SEC,puntReturnsOpponent,11
+2023,Texas A&M,SEC,puntReturnTDs,1
+2023,Texas A&M,SEC,puntReturnTDsOpponent,1
+2023,Texas A&M,SEC,puntReturnYards,324
+2023,Texas A&M,SEC,puntReturnYardsOpponent,68
+2023,Texas A&M,SEC,rushingAttempts,456
+2023,Texas A&M,SEC,rushingAttemptsOpponent,421
+2023,Texas A&M,SEC,rushingTDs,23
+2023,Texas A&M,SEC,rushingTDsOpponent,9
+2023,Texas A&M,SEC,rushingYards,1770
+2023,Texas A&M,SEC,rushingYardsOpponent,1414
+2023,Texas A&M,SEC,sacks,42
+2023,Texas A&M,SEC,sacksOpponent,29
+2023,Texas A&M,SEC,tacklesForLoss,99
+2023,Texas A&M,SEC,tacklesForLossOpponent,65
+2023,Texas A&M,SEC,thirdDownConversions,76
+2023,Texas A&M,SEC,thirdDownConversionsOpponent,55
+2023,Texas A&M,SEC,thirdDowns,175
+2023,Texas A&M,SEC,thirdDownsOpponent,171
+2023,Texas A&M,SEC,totalYards,5290
+2023,Texas A&M,SEC,totalYardsOpponent,4110
+2023,Texas A&M,SEC,turnovers,15
+2023,Texas A&M,SEC,turnoversOpponent,13
+2023,Vanderbilt,SEC,firstDowns,204
+2023,Vanderbilt,SEC,firstDownsOpponent,268
+2023,Vanderbilt,SEC,fourthDownConversions,8
+2023,Vanderbilt,SEC,fourthDownConversionsOpponent,10
+2023,Vanderbilt,SEC,fourthDowns,27
+2023,Vanderbilt,SEC,fourthDownsOpponent,14
+2023,Vanderbilt,SEC,fumblesLost,7
+2023,Vanderbilt,SEC,fumblesLostOpponent,4
+2023,Vanderbilt,SEC,fumblesRecovered,4
+2023,Vanderbilt,SEC,fumblesRecoveredOpponent,7
+2023,Vanderbilt,SEC,games,12
+2023,Vanderbilt,SEC,interceptions,13
+2023,Vanderbilt,SEC,interceptionsOpponent,12
+2023,Vanderbilt,SEC,interceptionTDs,2
+2023,Vanderbilt,SEC,interceptionTDsOpponent,2
+2023,Vanderbilt,SEC,interceptionYards,132
+2023,Vanderbilt,SEC,interceptionYardsOpponent,270
+2023,Vanderbilt,SEC,kickReturns,27
+2023,Vanderbilt,SEC,kickReturnsOpponent,25
+2023,Vanderbilt,SEC,kickReturnTDs,1
+2023,Vanderbilt,SEC,kickReturnTDsOpponent,0
+2023,Vanderbilt,SEC,kickReturnYards,545
+2023,Vanderbilt,SEC,kickReturnYardsOpponent,544
+2023,Vanderbilt,SEC,netPassingYards,2680
+2023,Vanderbilt,SEC,netPassingYardsOpponent,3355
+2023,Vanderbilt,SEC,passAttempts,390
+2023,Vanderbilt,SEC,passAttemptsOpponent,421
+2023,Vanderbilt,SEC,passCompletions,217
+2023,Vanderbilt,SEC,passCompletionsOpponent,290
+2023,Vanderbilt,SEC,passesIntercepted,12
+2023,Vanderbilt,SEC,passesInterceptedOpponent,12
+2023,Vanderbilt,SEC,passingTDs,23
+2023,Vanderbilt,SEC,passingTDsOpponent,26
+2023,Vanderbilt,SEC,penalties,59
+2023,Vanderbilt,SEC,penaltiesOpponent,87
+2023,Vanderbilt,SEC,penaltyYards,510
+2023,Vanderbilt,SEC,penaltyYardsOpponent,742
+2023,Vanderbilt,SEC,possessionTime,20723
+2023,Vanderbilt,SEC,possessionTimeOpponent,22477
+2023,Vanderbilt,SEC,puntReturns,16
+2023,Vanderbilt,SEC,puntReturnsOpponent,18
+2023,Vanderbilt,SEC,puntReturnTDs,0
+2023,Vanderbilt,SEC,puntReturnTDsOpponent,1
+2023,Vanderbilt,SEC,puntReturnYards,163
+2023,Vanderbilt,SEC,puntReturnYardsOpponent,174
+2023,Vanderbilt,SEC,rushingAttempts,350
+2023,Vanderbilt,SEC,rushingAttemptsOpponent,413
+2023,Vanderbilt,SEC,rushingTDs,10
+2023,Vanderbilt,SEC,rushingTDsOpponent,23
+2023,Vanderbilt,SEC,rushingYards,1143
+2023,Vanderbilt,SEC,rushingYardsOpponent,2104
+2023,Vanderbilt,SEC,sacks,21
+2023,Vanderbilt,SEC,sacksOpponent,27
+2023,Vanderbilt,SEC,tacklesForLoss,65
+2023,Vanderbilt,SEC,tacklesForLossOpponent,69
+2023,Vanderbilt,SEC,thirdDownConversions,52
+2023,Vanderbilt,SEC,thirdDownConversionsOpponent,77
+2023,Vanderbilt,SEC,thirdDowns,160
+2023,Vanderbilt,SEC,thirdDownsOpponent,165
+2023,Vanderbilt,SEC,totalYards,3823
+2023,Vanderbilt,SEC,totalYardsOpponent,5459
+2023,Vanderbilt,SEC,turnovers,20
+2023,Vanderbilt,SEC,turnoversOpponent,16
+2024,Alabama,SEC,firstDowns,271
+2024,Alabama,SEC,firstDownsOpponent,245
+2024,Alabama,SEC,fourthDownConversions,8
+2024,Alabama,SEC,fourthDownConversionsOpponent,15
+2024,Alabama,SEC,fourthDowns,16
+2024,Alabama,SEC,fourthDownsOpponent,23
+2024,Alabama,SEC,fumblesLost,10
+2024,Alabama,SEC,fumblesLostOpponent,11
+2024,Alabama,SEC,fumblesRecovered,11
+2024,Alabama,SEC,fumblesRecoveredOpponent,10
+2024,Alabama,SEC,games,13
+2024,Alabama,SEC,interceptions,11
+2024,Alabama,SEC,interceptionsOpponent,17
+2024,Alabama,SEC,interceptionTDs,0
+2024,Alabama,SEC,interceptionTDsOpponent,2
+2024,Alabama,SEC,interceptionYards,242
+2024,Alabama,SEC,interceptionYardsOpponent,200
+2024,Alabama,SEC,kickReturns,14
+2024,Alabama,SEC,kickReturnsOpponent,26
+2024,Alabama,SEC,kickReturnTDs,0
+2024,Alabama,SEC,kickReturnTDsOpponent,0
+2024,Alabama,SEC,kickReturnYards,282
+2024,Alabama,SEC,kickReturnYardsOpponent,478
+2024,Alabama,SEC,netPassingYards,3073
+2024,Alabama,SEC,netPassingYardsOpponent,2369
+2024,Alabama,SEC,passAttempts,354
+2024,Alabama,SEC,passAttemptsOpponent,395
+2024,Alabama,SEC,passCompletions,226
+2024,Alabama,SEC,passCompletionsOpponent,236
+2024,Alabama,SEC,passesIntercepted,17
+2024,Alabama,SEC,passesInterceptedOpponent,11
+2024,Alabama,SEC,passingTDs,17
+2024,Alabama,SEC,passingTDsOpponent,13
+2024,Alabama,SEC,penalties,95
+2024,Alabama,SEC,penaltiesOpponent,75
+2024,Alabama,SEC,penaltyYards,897
+2024,Alabama,SEC,penaltyYardsOpponent,622
+2024,Alabama,SEC,possessionTime,22878
+2024,Alabama,SEC,possessionTimeOpponent,23922
+2024,Alabama,SEC,puntReturns,25
+2024,Alabama,SEC,puntReturnsOpponent,8
+2024,Alabama,SEC,puntReturnTDs,0
+2024,Alabama,SEC,puntReturnTDsOpponent,0
+2024,Alabama,SEC,puntReturnYards,224
+2024,Alabama,SEC,puntReturnYardsOpponent,8
+2024,Alabama,SEC,rushingAttempts,487
+2024,Alabama,SEC,rushingAttemptsOpponent,484
+2024,Alabama,SEC,rushingTDs,41
+2024,Alabama,SEC,rushingTDsOpponent,10
+2024,Alabama,SEC,rushingYards,2262
+2024,Alabama,SEC,rushingYardsOpponent,1801
+2024,Alabama,SEC,sacks,25
+2024,Alabama,SEC,sacksOpponent,24
+2024,Alabama,SEC,tacklesForLoss,71
+2024,Alabama,SEC,tacklesForLossOpponent,77
+2024,Alabama,SEC,thirdDownConversions,78
+2024,Alabama,SEC,thirdDownConversionsOpponent,62
+2024,Alabama,SEC,thirdDowns,164
+2024,Alabama,SEC,thirdDownsOpponent,192
+2024,Alabama,SEC,totalYards,5335
+2024,Alabama,SEC,totalYardsOpponent,4170
+2024,Alabama,SEC,turnovers,21
+2024,Alabama,SEC,turnoversOpponent,28
+2024,Arkansas,SEC,firstDowns,314
+2024,Arkansas,SEC,firstDownsOpponent,260
+2024,Arkansas,SEC,fourthDownConversions,14
+2024,Arkansas,SEC,fourthDownConversionsOpponent,16
+2024,Arkansas,SEC,fourthDowns,23
+2024,Arkansas,SEC,fourthDownsOpponent,31
+2024,Arkansas,SEC,fumblesLost,14
+2024,Arkansas,SEC,fumblesLostOpponent,5
+2024,Arkansas,SEC,fumblesRecovered,5
+2024,Arkansas,SEC,fumblesRecoveredOpponent,13
+2024,Arkansas,SEC,games,13
+2024,Arkansas,SEC,interceptions,9
+2024,Arkansas,SEC,interceptionsOpponent,10
+2024,Arkansas,SEC,interceptionTDs,0
+2024,Arkansas,SEC,interceptionTDsOpponent,1
+2024,Arkansas,SEC,interceptionYards,135
+2024,Arkansas,SEC,interceptionYardsOpponent,195
+2024,Arkansas,SEC,kickReturns,16
+2024,Arkansas,SEC,kickReturnsOpponent,20
+2024,Arkansas,SEC,kickReturnTDs,0
+2024,Arkansas,SEC,kickReturnTDsOpponent,0
+2024,Arkansas,SEC,kickReturnYards,235
+2024,Arkansas,SEC,kickReturnYardsOpponent,445
+2024,Arkansas,SEC,netPassingYards,3570
+2024,Arkansas,SEC,netPassingYardsOpponent,3210
+2024,Arkansas,SEC,passAttempts,414
+2024,Arkansas,SEC,passAttemptsOpponent,418
+2024,Arkansas,SEC,passCompletions,255
+2024,Arkansas,SEC,passCompletionsOpponent,259
+2024,Arkansas,SEC,passesIntercepted,10
+2024,Arkansas,SEC,passesInterceptedOpponent,9
+2024,Arkansas,SEC,passingTDs,16
+2024,Arkansas,SEC,passingTDsOpponent,22
+2024,Arkansas,SEC,penalties,93
+2024,Arkansas,SEC,penaltiesOpponent,84
+2024,Arkansas,SEC,penaltyYards,778
+2024,Arkansas,SEC,penaltyYardsOpponent,696
+2024,Arkansas,SEC,possessionTime,23720
+2024,Arkansas,SEC,possessionTimeOpponent,23080
+2024,Arkansas,SEC,puntReturns,11
+2024,Arkansas,SEC,puntReturnsOpponent,9
+2024,Arkansas,SEC,puntReturnTDs,0
+2024,Arkansas,SEC,puntReturnTDsOpponent,0
+2024,Arkansas,SEC,puntReturnYards,68
+2024,Arkansas,SEC,puntReturnYardsOpponent,52
+2024,Arkansas,SEC,rushingAttempts,492
+2024,Arkansas,SEC,rushingAttemptsOpponent,458
+2024,Arkansas,SEC,rushingTDs,34
+2024,Arkansas,SEC,rushingTDsOpponent,15
+2024,Arkansas,SEC,rushingYards,2401
+2024,Arkansas,SEC,rushingYardsOpponent,1702
+2024,Arkansas,SEC,sacks,26
+2024,Arkansas,SEC,sacksOpponent,36
+2024,Arkansas,SEC,tacklesForLoss,61
+2024,Arkansas,SEC,tacklesForLossOpponent,83
+2024,Arkansas,SEC,thirdDownConversions,72
+2024,Arkansas,SEC,thirdDownConversionsOpponent,66
+2024,Arkansas,SEC,thirdDowns,166
+2024,Arkansas,SEC,thirdDownsOpponent,182
+2024,Arkansas,SEC,totalYards,5971
+2024,Arkansas,SEC,totalYardsOpponent,4912
+2024,Arkansas,SEC,turnovers,23
+2024,Arkansas,SEC,turnoversOpponent,15
+2024,Auburn,SEC,firstDowns,251
+2024,Auburn,SEC,firstDownsOpponent,213
+2024,Auburn,SEC,fourthDownConversions,9
+2024,Auburn,SEC,fourthDownConversionsOpponent,10
+2024,Auburn,SEC,fourthDowns,19
+2024,Auburn,SEC,fourthDownsOpponent,20
+2024,Auburn,SEC,fumblesLost,9
+2024,Auburn,SEC,fumblesLostOpponent,5
+2024,Auburn,SEC,fumblesRecovered,5
+2024,Auburn,SEC,fumblesRecoveredOpponent,9
+2024,Auburn,SEC,games,12
+2024,Auburn,SEC,interceptions,13
+2024,Auburn,SEC,interceptionsOpponent,8
+2024,Auburn,SEC,interceptionTDs,0
+2024,Auburn,SEC,interceptionTDsOpponent,1
+2024,Auburn,SEC,interceptionYards,58
+2024,Auburn,SEC,interceptionYardsOpponent,114
+2024,Auburn,SEC,kickReturns,23
+2024,Auburn,SEC,kickReturnsOpponent,16
+2024,Auburn,SEC,kickReturnTDs,0
+2024,Auburn,SEC,kickReturnTDsOpponent,0
+2024,Auburn,SEC,kickReturnYards,509
+2024,Auburn,SEC,kickReturnYardsOpponent,328
+2024,Auburn,SEC,netPassingYards,3167
+2024,Auburn,SEC,netPassingYardsOpponent,2556
+2024,Auburn,SEC,passAttempts,369
+2024,Auburn,SEC,passAttemptsOpponent,354
+2024,Auburn,SEC,passCompletions,230
+2024,Auburn,SEC,passCompletionsOpponent,199
+2024,Auburn,SEC,passesIntercepted,8
+2024,Auburn,SEC,passesInterceptedOpponent,13
+2024,Auburn,SEC,passingTDs,27
+2024,Auburn,SEC,passingTDsOpponent,12
+2024,Auburn,SEC,penalties,69
+2024,Auburn,SEC,penaltiesOpponent,78
+2024,Auburn,SEC,penaltyYards,592
+2024,Auburn,SEC,penaltyYardsOpponent,642
+2024,Auburn,SEC,possessionTime,19606
+2024,Auburn,SEC,possessionTimeOpponent,22994
+2024,Auburn,SEC,puntReturns,21
+2024,Auburn,SEC,puntReturnsOpponent,8
+2024,Auburn,SEC,puntReturnTDs,1
+2024,Auburn,SEC,puntReturnTDsOpponent,1
+2024,Auburn,SEC,puntReturnYards,170
+2024,Auburn,SEC,puntReturnYardsOpponent,30
+2024,Auburn,SEC,rushingAttempts,401
+2024,Auburn,SEC,rushingAttemptsOpponent,453
+2024,Auburn,SEC,rushingTDs,13
+2024,Auburn,SEC,rushingTDsOpponent,18
+2024,Auburn,SEC,rushingYards,1988
+2024,Auburn,SEC,rushingYardsOpponent,1423
+2024,Auburn,SEC,sacks,28
+2024,Auburn,SEC,sacksOpponent,25
+2024,Auburn,SEC,tacklesForLoss,68
+2024,Auburn,SEC,tacklesForLossOpponent,62
+2024,Auburn,SEC,thirdDownConversions,61
+2024,Auburn,SEC,thirdDownConversionsOpponent,73
+2024,Auburn,SEC,thirdDowns,147
+2024,Auburn,SEC,thirdDownsOpponent,185
+2024,Auburn,SEC,totalYards,5155
+2024,Auburn,SEC,totalYardsOpponent,3979
+2024,Auburn,SEC,turnovers,22
+2024,Auburn,SEC,turnoversOpponent,13
+2024,Florida,SEC,firstDowns,250
+2024,Florida,SEC,firstDownsOpponent,281
+2024,Florida,SEC,fourthDownConversions,8
+2024,Florida,SEC,fourthDownConversionsOpponent,15
+2024,Florida,SEC,fourthDowns,15
+2024,Florida,SEC,fourthDownsOpponent,29
+2024,Florida,SEC,fumblesLost,4
+2024,Florida,SEC,fumblesLostOpponent,11
+2024,Florida,SEC,fumblesRecovered,11
+2024,Florida,SEC,fumblesRecoveredOpponent,5
+2024,Florida,SEC,games,13
+2024,Florida,SEC,interceptions,14
+2024,Florida,SEC,interceptionsOpponent,14
+2024,Florida,SEC,interceptionTDs,1
+2024,Florida,SEC,interceptionTDsOpponent,1
+2024,Florida,SEC,interceptionYards,167
+2024,Florida,SEC,interceptionYardsOpponent,237
+2024,Florida,SEC,kickReturns,15
+2024,Florida,SEC,kickReturnsOpponent,15
+2024,Florida,SEC,kickReturnTDs,0
+2024,Florida,SEC,kickReturnTDsOpponent,1
+2024,Florida,SEC,kickReturnYards,305
+2024,Florida,SEC,kickReturnYardsOpponent,338
+2024,Florida,SEC,netPassingYards,2934
+2024,Florida,SEC,netPassingYardsOpponent,2957
+2024,Florida,SEC,passAttempts,339
+2024,Florida,SEC,passAttemptsOpponent,421
+2024,Florida,SEC,passCompletions,208
+2024,Florida,SEC,passCompletionsOpponent,244
+2024,Florida,SEC,passesIntercepted,14
+2024,Florida,SEC,passesInterceptedOpponent,14
+2024,Florida,SEC,passingTDs,18
+2024,Florida,SEC,passingTDsOpponent,18
+2024,Florida,SEC,penalties,77
+2024,Florida,SEC,penaltiesOpponent,63
+2024,Florida,SEC,penaltyYards,702
+2024,Florida,SEC,penaltyYardsOpponent,573
+2024,Florida,SEC,possessionTime,22315
+2024,Florida,SEC,possessionTimeOpponent,24485
+2024,Florida,SEC,puntReturns,15
+2024,Florida,SEC,puntReturnsOpponent,17
+2024,Florida,SEC,puntReturnTDs,0
+2024,Florida,SEC,puntReturnTDsOpponent,0
+2024,Florida,SEC,puntReturnYards,187
+2024,Florida,SEC,puntReturnYardsOpponent,119
+2024,Florida,SEC,rushingAttempts,460
+2024,Florida,SEC,rushingAttemptsOpponent,510
+2024,Florida,SEC,rushingTDs,26
+2024,Florida,SEC,rushingTDsOpponent,17
+2024,Florida,SEC,rushingYards,2128
+2024,Florida,SEC,rushingYardsOpponent,1949
+2024,Florida,SEC,sacks,40
+2024,Florida,SEC,sacksOpponent,20
+2024,Florida,SEC,tacklesForLoss,86
+2024,Florida,SEC,tacklesForLossOpponent,65
+2024,Florida,SEC,thirdDownConversions,62
+2024,Florida,SEC,thirdDownConversionsOpponent,73
+2024,Florida,SEC,thirdDowns,161
+2024,Florida,SEC,thirdDownsOpponent,184
+2024,Florida,SEC,totalYards,5062
+2024,Florida,SEC,totalYardsOpponent,4906
+2024,Florida,SEC,turnovers,18
+2024,Florida,SEC,turnoversOpponent,25
+2024,Georgia,SEC,firstDowns,305
+2024,Georgia,SEC,firstDownsOpponent,249
+2024,Georgia,SEC,fourthDownConversions,18
+2024,Georgia,SEC,fourthDownConversionsOpponent,17
+2024,Georgia,SEC,fourthDowns,27
+2024,Georgia,SEC,fourthDownsOpponent,31
+2024,Georgia,SEC,fumblesLost,7
+2024,Georgia,SEC,fumblesLostOpponent,10
+2024,Georgia,SEC,fumblesRecovered,11
+2024,Georgia,SEC,fumblesRecoveredOpponent,7
+2024,Georgia,SEC,games,14
+2024,Georgia,SEC,interceptions,13
+2024,Georgia,SEC,interceptionsOpponent,8
+2024,Georgia,SEC,interceptionTDs,0
+2024,Georgia,SEC,interceptionTDsOpponent,0
+2024,Georgia,SEC,interceptionYards,23
+2024,Georgia,SEC,interceptionYardsOpponent,156
+2024,Georgia,SEC,kickReturns,13
+2024,Georgia,SEC,kickReturnsOpponent,21
+2024,Georgia,SEC,kickReturnTDs,0
+2024,Georgia,SEC,kickReturnTDsOpponent,1
+2024,Georgia,SEC,kickReturnYards,205
+2024,Georgia,SEC,kickReturnYardsOpponent,450
+2024,Georgia,SEC,netPassingYards,3934
+2024,Georgia,SEC,netPassingYardsOpponent,2803
+2024,Georgia,SEC,passAttempts,513
+2024,Georgia,SEC,passAttemptsOpponent,423
+2024,Georgia,SEC,passCompletions,336
+2024,Georgia,SEC,passCompletionsOpponent,251
+2024,Georgia,SEC,passesIntercepted,8
+2024,Georgia,SEC,passesInterceptedOpponent,13
+2024,Georgia,SEC,passingTDs,29
+2024,Georgia,SEC,passingTDsOpponent,14
+2024,Georgia,SEC,penalties,80
+2024,Georgia,SEC,penaltiesOpponent,89
+2024,Georgia,SEC,penaltyYards,751
+2024,Georgia,SEC,penaltyYardsOpponent,690
+2024,Georgia,SEC,possessionTime,24979
+2024,Georgia,SEC,possessionTimeOpponent,25121
+2024,Georgia,SEC,puntReturns,22
+2024,Georgia,SEC,puntReturnsOpponent,11
+2024,Georgia,SEC,puntReturnTDs,0
+2024,Georgia,SEC,puntReturnTDsOpponent,0
+2024,Georgia,SEC,puntReturnYards,174
+2024,Georgia,SEC,puntReturnYardsOpponent,57
+2024,Georgia,SEC,rushingAttempts,423
+2024,Georgia,SEC,rushingAttemptsOpponent,487
+2024,Georgia,SEC,rushingTDs,24
+2024,Georgia,SEC,rushingTDsOpponent,14
+2024,Georgia,SEC,rushingYards,1750
+2024,Georgia,SEC,rushingYardsOpponent,1854
+2024,Georgia,SEC,sacks,37
+2024,Georgia,SEC,sacksOpponent,25
+2024,Georgia,SEC,tacklesForLoss,87
+2024,Georgia,SEC,tacklesForLossOpponent,67
+2024,Georgia,SEC,thirdDownConversions,69
+2024,Georgia,SEC,thirdDownConversionsOpponent,64
+2024,Georgia,SEC,thirdDowns,176
+2024,Georgia,SEC,thirdDownsOpponent,197
+2024,Georgia,SEC,totalYards,5684
+2024,Georgia,SEC,totalYardsOpponent,4657
+2024,Georgia,SEC,turnovers,20
+2024,Georgia,SEC,turnoversOpponent,18
+2024,Kentucky,SEC,firstDowns,233
+2024,Kentucky,SEC,firstDownsOpponent,215
+2024,Kentucky,SEC,fourthDownConversions,11
+2024,Kentucky,SEC,fourthDownConversionsOpponent,6
+2024,Kentucky,SEC,fourthDowns,25
+2024,Kentucky,SEC,fourthDownsOpponent,9
+2024,Kentucky,SEC,fumblesLost,6
+2024,Kentucky,SEC,fumblesLostOpponent,6
+2024,Kentucky,SEC,fumblesRecovered,6
+2024,Kentucky,SEC,fumblesRecoveredOpponent,6
+2024,Kentucky,SEC,games,12
+2024,Kentucky,SEC,interceptions,17
+2024,Kentucky,SEC,interceptionsOpponent,10
+2024,Kentucky,SEC,interceptionTDs,1
+2024,Kentucky,SEC,interceptionTDsOpponent,2
+2024,Kentucky,SEC,interceptionYards,99
+2024,Kentucky,SEC,interceptionYardsOpponent,268
+2024,Kentucky,SEC,kickReturns,31
+2024,Kentucky,SEC,kickReturnsOpponent,16
+2024,Kentucky,SEC,kickReturnTDs,1
+2024,Kentucky,SEC,kickReturnTDsOpponent,0
+2024,Kentucky,SEC,kickReturnYards,613
+2024,Kentucky,SEC,kickReturnYardsOpponent,285
+2024,Kentucky,SEC,netPassingYards,2218
+2024,Kentucky,SEC,netPassingYardsOpponent,2197
+2024,Kentucky,SEC,passAttempts,312
+2024,Kentucky,SEC,passAttemptsOpponent,280
+2024,Kentucky,SEC,passCompletions,167
+2024,Kentucky,SEC,passCompletionsOpponent,178
+2024,Kentucky,SEC,passesIntercepted,10
+2024,Kentucky,SEC,passesInterceptedOpponent,17
+2024,Kentucky,SEC,passingTDs,15
+2024,Kentucky,SEC,passingTDsOpponent,9
+2024,Kentucky,SEC,penalties,75
+2024,Kentucky,SEC,penaltiesOpponent,81
+2024,Kentucky,SEC,penaltyYards,625
+2024,Kentucky,SEC,penaltyYardsOpponent,662
+2024,Kentucky,SEC,possessionTime,21271
+2024,Kentucky,SEC,possessionTimeOpponent,20433
+2024,Kentucky,SEC,puntReturns,16
+2024,Kentucky,SEC,puntReturnsOpponent,11
+2024,Kentucky,SEC,puntReturnTDs,0
+2024,Kentucky,SEC,puntReturnTDsOpponent,0
+2024,Kentucky,SEC,puntReturnYards,130
+2024,Kentucky,SEC,puntReturnYardsOpponent,40
+2024,Kentucky,SEC,rushingAttempts,440
+2024,Kentucky,SEC,rushingAttemptsOpponent,428
+2024,Kentucky,SEC,rushingTDs,11
+2024,Kentucky,SEC,rushingTDsOpponent,20
+2024,Kentucky,SEC,rushingYards,1757
+2024,Kentucky,SEC,rushingYardsOpponent,1955
+2024,Kentucky,SEC,sacks,22
+2024,Kentucky,SEC,sacksOpponent,35
+2024,Kentucky,SEC,tacklesForLoss,67
+2024,Kentucky,SEC,tacklesForLossOpponent,71
+2024,Kentucky,SEC,thirdDownConversions,48
+2024,Kentucky,SEC,thirdDownConversionsOpponent,56
+2024,Kentucky,SEC,thirdDowns,142
+2024,Kentucky,SEC,thirdDownsOpponent,142
+2024,Kentucky,SEC,totalYards,3975
+2024,Kentucky,SEC,totalYardsOpponent,4152
+2024,Kentucky,SEC,turnovers,23
+2024,Kentucky,SEC,turnoversOpponent,16
+2024,LSU,SEC,firstDowns,307
+2024,LSU,SEC,firstDownsOpponent,242
+2024,LSU,SEC,fourthDownConversions,12
+2024,LSU,SEC,fourthDownConversionsOpponent,8
+2024,LSU,SEC,fourthDowns,24
+2024,LSU,SEC,fourthDownsOpponent,24
+2024,LSU,SEC,fumblesLost,5
+2024,LSU,SEC,fumblesLostOpponent,8
+2024,LSU,SEC,fumblesRecovered,8
+2024,LSU,SEC,fumblesRecoveredOpponent,5
+2024,LSU,SEC,games,13
+2024,LSU,SEC,interceptions,12
+2024,LSU,SEC,interceptionsOpponent,6
+2024,LSU,SEC,interceptionTDs,1
+2024,LSU,SEC,interceptionTDsOpponent,0
+2024,LSU,SEC,interceptionYards,60
+2024,LSU,SEC,interceptionYardsOpponent,100
+2024,LSU,SEC,kickReturns,29
+2024,LSU,SEC,kickReturnsOpponent,8
+2024,LSU,SEC,kickReturnTDs,2
+2024,LSU,SEC,kickReturnTDsOpponent,0
+2024,LSU,SEC,kickReturnYards,802
+2024,LSU,SEC,kickReturnYardsOpponent,179
+2024,LSU,SEC,netPassingYards,4084
+2024,LSU,SEC,netPassingYardsOpponent,2913
+2024,LSU,SEC,passAttempts,533
+2024,LSU,SEC,passAttemptsOpponent,378
+2024,LSU,SEC,passCompletions,343
+2024,LSU,SEC,passCompletionsOpponent,231
+2024,LSU,SEC,passesIntercepted,6
+2024,LSU,SEC,passesInterceptedOpponent,12
+2024,LSU,SEC,passingTDs,29
+2024,LSU,SEC,passingTDsOpponent,11
+2024,LSU,SEC,penalties,82
+2024,LSU,SEC,penaltiesOpponent,92
+2024,LSU,SEC,penaltyYards,641
+2024,LSU,SEC,penaltyYardsOpponent,832
+2024,LSU,SEC,possessionTime,25010
+2024,LSU,SEC,possessionTimeOpponent,21790
+2024,LSU,SEC,puntReturns,14
+2024,LSU,SEC,puntReturnsOpponent,10
+2024,LSU,SEC,puntReturnTDs,0
+2024,LSU,SEC,puntReturnTDsOpponent,0
+2024,LSU,SEC,puntReturnYards,66
+2024,LSU,SEC,puntReturnYardsOpponent,75
+2024,LSU,SEC,rushingAttempts,370
+2024,LSU,SEC,rushingAttemptsOpponent,424
+2024,LSU,SEC,rushingTDs,15
+2024,LSU,SEC,rushingTDsOpponent,26
+2024,LSU,SEC,rushingYards,1520
+2024,LSU,SEC,rushingYardsOpponent,1827
+2024,LSU,SEC,sacks,34
+2024,LSU,SEC,sacksOpponent,16
+2024,LSU,SEC,tacklesForLoss,69
+2024,LSU,SEC,tacklesForLossOpponent,48
+2024,LSU,SEC,thirdDownConversions,93
+2024,LSU,SEC,thirdDownConversionsOpponent,66
+2024,LSU,SEC,thirdDowns,187
+2024,LSU,SEC,thirdDownsOpponent,163
+2024,LSU,SEC,totalYards,5604
+2024,LSU,SEC,totalYardsOpponent,4740
+2024,LSU,SEC,turnovers,17
+2024,LSU,SEC,turnoversOpponent,14
+2024,Mississippi State,SEC,firstDowns,244
+2024,Mississippi State,SEC,firstDownsOpponent,286
+2024,Mississippi State,SEC,fourthDownConversions,21
+2024,Mississippi State,SEC,fourthDownConversionsOpponent,14
+2024,Mississippi State,SEC,fourthDowns,37
+2024,Mississippi State,SEC,fourthDownsOpponent,19
+2024,Mississippi State,SEC,fumblesLost,10
+2024,Mississippi State,SEC,fumblesLostOpponent,5
+2024,Mississippi State,SEC,fumblesRecovered,4
+2024,Mississippi State,SEC,fumblesRecoveredOpponent,10
+2024,Mississippi State,SEC,games,12
+2024,Mississippi State,SEC,interceptions,8
+2024,Mississippi State,SEC,interceptionsOpponent,7
+2024,Mississippi State,SEC,interceptionTDs,1
+2024,Mississippi State,SEC,interceptionTDsOpponent,0
+2024,Mississippi State,SEC,interceptionYards,72
+2024,Mississippi State,SEC,interceptionYardsOpponent,59
+2024,Mississippi State,SEC,kickReturns,12
+2024,Mississippi State,SEC,kickReturnsOpponent,10
+2024,Mississippi State,SEC,kickReturnTDs,0
+2024,Mississippi State,SEC,kickReturnTDsOpponent,0
+2024,Mississippi State,SEC,kickReturnYards,308
+2024,Mississippi State,SEC,kickReturnYardsOpponent,169
+2024,Mississippi State,SEC,netPassingYards,2871
+2024,Mississippi State,SEC,netPassingYardsOpponent,2873
+2024,Mississippi State,SEC,passAttempts,367
+2024,Mississippi State,SEC,passAttemptsOpponent,341
+2024,Mississippi State,SEC,passCompletions,215
+2024,Mississippi State,SEC,passCompletionsOpponent,240
+2024,Mississippi State,SEC,passesIntercepted,7
+2024,Mississippi State,SEC,passesInterceptedOpponent,8
+2024,Mississippi State,SEC,passingTDs,19
+2024,Mississippi State,SEC,passingTDsOpponent,23
+2024,Mississippi State,SEC,penalties,82
+2024,Mississippi State,SEC,penaltiesOpponent,75
+2024,Mississippi State,SEC,penaltyYards,723
+2024,Mississippi State,SEC,penaltyYardsOpponent,706
+2024,Mississippi State,SEC,possessionTime,18496
+2024,Mississippi State,SEC,possessionTimeOpponent,24704
+2024,Mississippi State,SEC,puntReturns,19
+2024,Mississippi State,SEC,puntReturnsOpponent,14
+2024,Mississippi State,SEC,puntReturnTDs,1
+2024,Mississippi State,SEC,puntReturnTDsOpponent,0
+2024,Mississippi State,SEC,puntReturnYards,179
+2024,Mississippi State,SEC,puntReturnYardsOpponent,122
+2024,Mississippi State,SEC,rushingAttempts,417
+2024,Mississippi State,SEC,rushingAttemptsOpponent,513
+2024,Mississippi State,SEC,rushingTDs,19
+2024,Mississippi State,SEC,rushingTDsOpponent,24
+2024,Mississippi State,SEC,rushingYards,1663
+2024,Mississippi State,SEC,rushingYardsOpponent,2624
+2024,Mississippi State,SEC,sacks,10
+2024,Mississippi State,SEC,sacksOpponent,37
+2024,Mississippi State,SEC,tacklesForLoss,47
+2024,Mississippi State,SEC,tacklesForLossOpponent,81
+2024,Mississippi State,SEC,thirdDownConversions,59
+2024,Mississippi State,SEC,thirdDownConversionsOpponent,79
+2024,Mississippi State,SEC,thirdDowns,160
+2024,Mississippi State,SEC,thirdDownsOpponent,165
+2024,Mississippi State,SEC,totalYards,4534
+2024,Mississippi State,SEC,totalYardsOpponent,5497
+2024,Mississippi State,SEC,turnovers,18
+2024,Mississippi State,SEC,turnoversOpponent,12
+2024,Missouri,SEC,firstDowns,276
+2024,Missouri,SEC,firstDownsOpponent,210
+2024,Missouri,SEC,fourthDownConversions,10
+2024,Missouri,SEC,fourthDownConversionsOpponent,12
+2024,Missouri,SEC,fourthDowns,19
+2024,Missouri,SEC,fourthDownsOpponent,24
+2024,Missouri,SEC,fumblesLost,4
+2024,Missouri,SEC,fumblesLostOpponent,10
+2024,Missouri,SEC,fumblesRecovered,10
+2024,Missouri,SEC,fumblesRecoveredOpponent,4
+2024,Missouri,SEC,games,13
+2024,Missouri,SEC,interceptions,5
+2024,Missouri,SEC,interceptionsOpponent,7
+2024,Missouri,SEC,interceptionTDs,1
+2024,Missouri,SEC,interceptionTDsOpponent,0
+2024,Missouri,SEC,interceptionYards,161
+2024,Missouri,SEC,interceptionYardsOpponent,47
+2024,Missouri,SEC,kickReturns,24
+2024,Missouri,SEC,kickReturnsOpponent,19
+2024,Missouri,SEC,kickReturnTDs,0
+2024,Missouri,SEC,kickReturnTDsOpponent,1
+2024,Missouri,SEC,kickReturnYards,452
+2024,Missouri,SEC,kickReturnYardsOpponent,428
+2024,Missouri,SEC,netPassingYards,2916
+2024,Missouri,SEC,netPassingYardsOpponent,2357
+2024,Missouri,SEC,passAttempts,403
+2024,Missouri,SEC,passAttemptsOpponent,325
+2024,Missouri,SEC,passCompletions,249
+2024,Missouri,SEC,passCompletionsOpponent,198
+2024,Missouri,SEC,passesIntercepted,7
+2024,Missouri,SEC,passesInterceptedOpponent,5
+2024,Missouri,SEC,passingTDs,14
+2024,Missouri,SEC,passingTDsOpponent,14
+2024,Missouri,SEC,penalties,73
+2024,Missouri,SEC,penaltiesOpponent,78
+2024,Missouri,SEC,penaltyYards,658
+2024,Missouri,SEC,penaltyYardsOpponent,682
+2024,Missouri,SEC,possessionTime,25672
+2024,Missouri,SEC,possessionTimeOpponent,21128
+2024,Missouri,SEC,puntReturns,8
+2024,Missouri,SEC,puntReturnsOpponent,11
+2024,Missouri,SEC,puntReturnTDs,1
+2024,Missouri,SEC,puntReturnTDsOpponent,0
+2024,Missouri,SEC,puntReturnYards,27
+2024,Missouri,SEC,puntReturnYardsOpponent,82
+2024,Missouri,SEC,rushingAttempts,515
+2024,Missouri,SEC,rushingAttemptsOpponent,435
+2024,Missouri,SEC,rushingTDs,26
+2024,Missouri,SEC,rushingTDsOpponent,15
+2024,Missouri,SEC,rushingYards,2152
+2024,Missouri,SEC,rushingYardsOpponent,1771
+2024,Missouri,SEC,sacks,27
+2024,Missouri,SEC,sacksOpponent,26
+2024,Missouri,SEC,tacklesForLoss,69
+2024,Missouri,SEC,tacklesForLossOpponent,60
+2024,Missouri,SEC,thirdDownConversions,89
+2024,Missouri,SEC,thirdDownConversionsOpponent,48
+2024,Missouri,SEC,thirdDowns,193
+2024,Missouri,SEC,thirdDownsOpponent,161
+2024,Missouri,SEC,totalYards,5068
+2024,Missouri,SEC,totalYardsOpponent,4128
+2024,Missouri,SEC,turnovers,9
+2024,Missouri,SEC,turnoversOpponent,17
+2024,Oklahoma,SEC,firstDowns,247
+2024,Oklahoma,SEC,firstDownsOpponent,211
+2024,Oklahoma,SEC,fourthDownConversions,16
+2024,Oklahoma,SEC,fourthDownConversionsOpponent,10
+2024,Oklahoma,SEC,fourthDowns,31
+2024,Oklahoma,SEC,fourthDownsOpponent,21
+2024,Oklahoma,SEC,fumblesLost,15
+2024,Oklahoma,SEC,fumblesLostOpponent,12
+2024,Oklahoma,SEC,fumblesRecovered,12
+2024,Oklahoma,SEC,fumblesRecoveredOpponent,15
+2024,Oklahoma,SEC,games,13
+2024,Oklahoma,SEC,interceptions,6
+2024,Oklahoma,SEC,interceptionsOpponent,9
+2024,Oklahoma,SEC,interceptionTDs,2
+2024,Oklahoma,SEC,interceptionTDsOpponent,2
+2024,Oklahoma,SEC,interceptionYards,184
+2024,Oklahoma,SEC,interceptionYardsOpponent,118
+2024,Oklahoma,SEC,kickReturns,13
+2024,Oklahoma,SEC,kickReturnsOpponent,16
+2024,Oklahoma,SEC,kickReturnTDs,0
+2024,Oklahoma,SEC,kickReturnTDsOpponent,1
+2024,Oklahoma,SEC,kickReturnYards,246
+2024,Oklahoma,SEC,kickReturnYardsOpponent,391
+2024,Oklahoma,SEC,netPassingYards,2286
+2024,Oklahoma,SEC,netPassingYardsOpponent,2641
+2024,Oklahoma,SEC,passAttempts,373
+2024,Oklahoma,SEC,passAttemptsOpponent,359
+2024,Oklahoma,SEC,passCompletions,235
+2024,Oklahoma,SEC,passCompletionsOpponent,217
+2024,Oklahoma,SEC,passesIntercepted,9
+2024,Oklahoma,SEC,passesInterceptedOpponent,6
+2024,Oklahoma,SEC,passingTDs,16
+2024,Oklahoma,SEC,passingTDsOpponent,17
+2024,Oklahoma,SEC,penalties,69
+2024,Oklahoma,SEC,penaltiesOpponent,81
+2024,Oklahoma,SEC,penaltyYards,591
+2024,Oklahoma,SEC,penaltyYardsOpponent,688
+2024,Oklahoma,SEC,possessionTime,22598
+2024,Oklahoma,SEC,possessionTimeOpponent,24202
+2024,Oklahoma,SEC,puntReturns,28
+2024,Oklahoma,SEC,puntReturnsOpponent,22
+2024,Oklahoma,SEC,puntReturnTDs,0
+2024,Oklahoma,SEC,puntReturnTDsOpponent,0
+2024,Oklahoma,SEC,puntReturnYards,223
+2024,Oklahoma,SEC,puntReturnYardsOpponent,106
+2024,Oklahoma,SEC,rushingAttempts,518
+2024,Oklahoma,SEC,rushingAttemptsOpponent,473
+2024,Oklahoma,SEC,rushingTDs,17
+2024,Oklahoma,SEC,rushingTDsOpponent,11
+2024,Oklahoma,SEC,rushingYards,2025
+2024,Oklahoma,SEC,rushingYardsOpponent,1500
+2024,Oklahoma,SEC,sacks,35
+2024,Oklahoma,SEC,sacksOpponent,50
+2024,Oklahoma,SEC,tacklesForLoss,96
+2024,Oklahoma,SEC,tacklesForLossOpponent,100
+2024,Oklahoma,SEC,thirdDownConversions,73
+2024,Oklahoma,SEC,thirdDownConversionsOpponent,71
+2024,Oklahoma,SEC,thirdDowns,195
+2024,Oklahoma,SEC,thirdDownsOpponent,196
+2024,Oklahoma,SEC,totalYards,4311
+2024,Oklahoma,SEC,totalYardsOpponent,4141
+2024,Oklahoma,SEC,turnovers,21
+2024,Oklahoma,SEC,turnoversOpponent,21
+2024,Ole Miss,SEC,firstDowns,322
+2024,Ole Miss,SEC,firstDownsOpponent,242
+2024,Ole Miss,SEC,fourthDownConversions,17
+2024,Ole Miss,SEC,fourthDownConversionsOpponent,19
+2024,Ole Miss,SEC,fourthDowns,29
+2024,Ole Miss,SEC,fourthDownsOpponent,37
+2024,Ole Miss,SEC,fumblesLost,6
+2024,Ole Miss,SEC,fumblesLostOpponent,11
+2024,Ole Miss,SEC,fumblesRecovered,10
+2024,Ole Miss,SEC,fumblesRecoveredOpponent,6
+2024,Ole Miss,SEC,games,13
+2024,Ole Miss,SEC,interceptions,7
+2024,Ole Miss,SEC,interceptionsOpponent,12
+2024,Ole Miss,SEC,interceptionTDs,1
+2024,Ole Miss,SEC,interceptionTDsOpponent,0
+2024,Ole Miss,SEC,interceptionYards,85
+2024,Ole Miss,SEC,interceptionYardsOpponent,69
+2024,Ole Miss,SEC,kickReturns,7
+2024,Ole Miss,SEC,kickReturnsOpponent,12
+2024,Ole Miss,SEC,kickReturnTDs,0
+2024,Ole Miss,SEC,kickReturnTDsOpponent,1
+2024,Ole Miss,SEC,kickReturnYards,141
+2024,Ole Miss,SEC,kickReturnYardsOpponent,253
+2024,Ole Miss,SEC,netPassingYards,4561
+2024,Ole Miss,SEC,netPassingYardsOpponent,3000
+2024,Ole Miss,SEC,passAttempts,434
+2024,Ole Miss,SEC,passAttemptsOpponent,446
+2024,Ole Miss,SEC,passCompletions,295
+2024,Ole Miss,SEC,passCompletionsOpponent,267
+2024,Ole Miss,SEC,passesIntercepted,12
+2024,Ole Miss,SEC,passesInterceptedOpponent,7
+2024,Ole Miss,SEC,passingTDs,31
+2024,Ole Miss,SEC,passingTDsOpponent,13
+2024,Ole Miss,SEC,penalties,94
+2024,Ole Miss,SEC,penaltiesOpponent,80
+2024,Ole Miss,SEC,penaltyYards,936
+2024,Ole Miss,SEC,penaltyYardsOpponent,699
+2024,Ole Miss,SEC,possessionTime,22140
+2024,Ole Miss,SEC,possessionTimeOpponent,24660
+2024,Ole Miss,SEC,puntReturns,21
+2024,Ole Miss,SEC,puntReturnsOpponent,11
+2024,Ole Miss,SEC,puntReturnTDs,0
+2024,Ole Miss,SEC,puntReturnTDsOpponent,0
+2024,Ole Miss,SEC,puntReturnYards,126
+2024,Ole Miss,SEC,puntReturnYardsOpponent,61
+2024,Ole Miss,SEC,rushingAttempts,499
+2024,Ole Miss,SEC,rushingAttemptsOpponent,455
+2024,Ole Miss,SEC,rushingTDs,29
+2024,Ole Miss,SEC,rushingTDsOpponent,7
+2024,Ole Miss,SEC,rushingYards,2286
+2024,Ole Miss,SEC,rushingYardsOpponent,1047
+2024,Ole Miss,SEC,sacks,53
+2024,Ole Miss,SEC,sacksOpponent,29
+2024,Ole Miss,SEC,tacklesForLoss,120
+2024,Ole Miss,SEC,tacklesForLossOpponent,78
+2024,Ole Miss,SEC,thirdDownConversions,71
+2024,Ole Miss,SEC,thirdDownConversionsOpponent,65
+2024,Ole Miss,SEC,thirdDowns,169
+2024,Ole Miss,SEC,thirdDownsOpponent,204
+2024,Ole Miss,SEC,totalYards,6847
+2024,Ole Miss,SEC,totalYardsOpponent,4047
+2024,Ole Miss,SEC,turnovers,13
+2024,Ole Miss,SEC,turnoversOpponent,23
+2024,South Carolina,SEC,firstDowns,280
+2024,South Carolina,SEC,firstDownsOpponent,235
+2024,South Carolina,SEC,fourthDownConversions,12
+2024,South Carolina,SEC,fourthDownConversionsOpponent,7
+2024,South Carolina,SEC,fourthDowns,25
+2024,South Carolina,SEC,fourthDownsOpponent,23
+2024,South Carolina,SEC,fumblesLost,14
+2024,South Carolina,SEC,fumblesLostOpponent,10
+2024,South Carolina,SEC,fumblesRecovered,10
+2024,South Carolina,SEC,fumblesRecoveredOpponent,14
+2024,South Carolina,SEC,games,13
+2024,South Carolina,SEC,interceptions,7
+2024,South Carolina,SEC,interceptionsOpponent,14
+2024,South Carolina,SEC,interceptionTDs,2
+2024,South Carolina,SEC,interceptionTDsOpponent,0
+2024,South Carolina,SEC,interceptionYards,173
+2024,South Carolina,SEC,interceptionYardsOpponent,73
+2024,South Carolina,SEC,kickReturns,17
+2024,South Carolina,SEC,kickReturnsOpponent,25
+2024,South Carolina,SEC,kickReturnTDs,0
+2024,South Carolina,SEC,kickReturnTDsOpponent,0
+2024,South Carolina,SEC,kickReturnYards,308
+2024,South Carolina,SEC,kickReturnYardsOpponent,400
+2024,South Carolina,SEC,netPassingYards,2897
+2024,South Carolina,SEC,netPassingYardsOpponent,2657
+2024,South Carolina,SEC,passAttempts,342
+2024,South Carolina,SEC,passAttemptsOpponent,396
+2024,South Carolina,SEC,passCompletions,225
+2024,South Carolina,SEC,passCompletionsOpponent,229
+2024,South Carolina,SEC,passesIntercepted,14
+2024,South Carolina,SEC,passesInterceptedOpponent,7
+2024,South Carolina,SEC,passingTDs,21
+2024,South Carolina,SEC,passingTDsOpponent,10
+2024,South Carolina,SEC,penalties,87
+2024,South Carolina,SEC,penaltiesOpponent,77
+2024,South Carolina,SEC,penaltyYards,754
+2024,South Carolina,SEC,penaltyYardsOpponent,644
+2024,South Carolina,SEC,possessionTime,24296
+2024,South Carolina,SEC,possessionTimeOpponent,22504
+2024,South Carolina,SEC,puntReturns,19
+2024,South Carolina,SEC,puntReturnsOpponent,18
+2024,South Carolina,SEC,puntReturnTDs,0
+2024,South Carolina,SEC,puntReturnTDsOpponent,0
+2024,South Carolina,SEC,puntReturnYards,125
+2024,South Carolina,SEC,puntReturnYardsOpponent,72
+2024,South Carolina,SEC,rushingAttempts,547
+2024,South Carolina,SEC,rushingAttemptsOpponent,451
+2024,South Carolina,SEC,rushingTDs,26
+2024,South Carolina,SEC,rushingTDsOpponent,18
+2024,South Carolina,SEC,rushingYards,2407
+2024,South Carolina,SEC,rushingYardsOpponent,1465
+2024,South Carolina,SEC,sacks,41
+2024,South Carolina,SEC,sacksOpponent,40
+2024,South Carolina,SEC,tacklesForLoss,87
+2024,South Carolina,SEC,tacklesForLossOpponent,95
+2024,South Carolina,SEC,thirdDownConversions,77
+2024,South Carolina,SEC,thirdDownConversionsOpponent,63
+2024,South Carolina,SEC,thirdDowns,179
+2024,South Carolina,SEC,thirdDownsOpponent,178
+2024,South Carolina,SEC,totalYards,5304
+2024,South Carolina,SEC,totalYardsOpponent,4122
+2024,South Carolina,SEC,turnovers,21
+2024,South Carolina,SEC,turnoversOpponent,24
+2024,Tennessee,SEC,firstDowns,303
+2024,Tennessee,SEC,firstDownsOpponent,225
+2024,Tennessee,SEC,fourthDownConversions,11
+2024,Tennessee,SEC,fourthDownConversionsOpponent,7
+2024,Tennessee,SEC,fourthDowns,18
+2024,Tennessee,SEC,fourthDownsOpponent,22
+2024,Tennessee,SEC,fumblesLost,8
+2024,Tennessee,SEC,fumblesLostOpponent,9
+2024,Tennessee,SEC,fumblesRecovered,9
+2024,Tennessee,SEC,fumblesRecoveredOpponent,8
+2024,Tennessee,SEC,games,13
+2024,Tennessee,SEC,interceptions,7
+2024,Tennessee,SEC,interceptionsOpponent,12
+2024,Tennessee,SEC,interceptionTDs,1
+2024,Tennessee,SEC,interceptionTDsOpponent,1
+2024,Tennessee,SEC,interceptionYards,247
+2024,Tennessee,SEC,interceptionYardsOpponent,256
+2024,Tennessee,SEC,kickReturns,14
+2024,Tennessee,SEC,kickReturnsOpponent,10
+2024,Tennessee,SEC,kickReturnTDs,0
+2024,Tennessee,SEC,kickReturnTDsOpponent,1
+2024,Tennessee,SEC,kickReturnYards,290
+2024,Tennessee,SEC,kickReturnYardsOpponent,229
+2024,Tennessee,SEC,netPassingYards,2875
+2024,Tennessee,SEC,netPassingYardsOpponent,2461
+2024,Tennessee,SEC,passAttempts,373
+2024,Tennessee,SEC,passAttemptsOpponent,381
+2024,Tennessee,SEC,passCompletions,236
+2024,Tennessee,SEC,passCompletionsOpponent,224
+2024,Tennessee,SEC,passesIntercepted,12
+2024,Tennessee,SEC,passesInterceptedOpponent,7
+2024,Tennessee,SEC,passingTDs,21
+2024,Tennessee,SEC,passingTDsOpponent,11
+2024,Tennessee,SEC,penalties,105
+2024,Tennessee,SEC,penaltiesOpponent,89
+2024,Tennessee,SEC,penaltyYards,869
+2024,Tennessee,SEC,penaltyYardsOpponent,691
+2024,Tennessee,SEC,possessionTime,23086
+2024,Tennessee,SEC,possessionTimeOpponent,23718
+2024,Tennessee,SEC,puntReturns,28
+2024,Tennessee,SEC,puntReturnsOpponent,17
+2024,Tennessee,SEC,puntReturnTDs,1
+2024,Tennessee,SEC,puntReturnTDsOpponent,0
+2024,Tennessee,SEC,puntReturnYards,424
+2024,Tennessee,SEC,puntReturnYardsOpponent,115
+2024,Tennessee,SEC,rushingAttempts,581
+2024,Tennessee,SEC,rushingAttemptsOpponent,453
+2024,Tennessee,SEC,rushingTDs,34
+2024,Tennessee,SEC,rushingTDsOpponent,13
+2024,Tennessee,SEC,rushingYards,2949
+2024,Tennessee,SEC,rushingYardsOpponent,1355
+2024,Tennessee,SEC,sacks,29
+2024,Tennessee,SEC,sacksOpponent,30
+2024,Tennessee,SEC,tacklesForLoss,101
+2024,Tennessee,SEC,tacklesForLossOpponent,62
+2024,Tennessee,SEC,thirdDownConversions,93
+2024,Tennessee,SEC,thirdDownConversionsOpponent,53
+2024,Tennessee,SEC,thirdDowns,197
+2024,Tennessee,SEC,thirdDownsOpponent,176
+2024,Tennessee,SEC,totalYards,5824
+2024,Tennessee,SEC,totalYardsOpponent,3816
+2024,Tennessee,SEC,turnovers,15
+2024,Tennessee,SEC,turnoversOpponent,21
+2024,Texas,SEC,firstDowns,353
+2024,Texas,SEC,firstDownsOpponent,263
+2024,Texas,SEC,fourthDownConversions,18
+2024,Texas,SEC,fourthDownConversionsOpponent,18
+2024,Texas,SEC,fourthDowns,33
+2024,Texas,SEC,fourthDownsOpponent,37
+2024,Texas,SEC,fumblesLost,12
+2024,Texas,SEC,fumblesLostOpponent,9
+2024,Texas,SEC,fumblesRecovered,9
+2024,Texas,SEC,fumblesRecoveredOpponent,12
+2024,Texas,SEC,games,16
+2024,Texas,SEC,interceptions,14
+2024,Texas,SEC,interceptionsOpponent,22
+2024,Texas,SEC,interceptionTDs,1
+2024,Texas,SEC,interceptionTDsOpponent,1
+2024,Texas,SEC,interceptionYards,182
+2024,Texas,SEC,interceptionYardsOpponent,130
+2024,Texas,SEC,kickReturns,15
+2024,Texas,SEC,kickReturnsOpponent,23
+2024,Texas,SEC,kickReturnTDs,0
+2024,Texas,SEC,kickReturnTDsOpponent,0
+2024,Texas,SEC,kickReturnYards,294
+2024,Texas,SEC,kickReturnYardsOpponent,381
+2024,Texas,SEC,netPassingYards,4459
+2024,Texas,SEC,netPassingYardsOpponent,2781
+2024,Texas,SEC,passAttempts,541
+2024,Texas,SEC,passAttemptsOpponent,489
+2024,Texas,SEC,passCompletions,357
+2024,Texas,SEC,passCompletionsOpponent,292
+2024,Texas,SEC,passesIntercepted,22
+2024,Texas,SEC,passesInterceptedOpponent,14
+2024,Texas,SEC,passingTDs,40
+2024,Texas,SEC,passingTDsOpponent,9
+2024,Texas,SEC,penalties,102
+2024,Texas,SEC,penaltiesOpponent,90
+2024,Texas,SEC,penaltyYards,829
+2024,Texas,SEC,penaltyYardsOpponent,765
+2024,Texas,SEC,possessionTime,28667
+2024,Texas,SEC,possessionTimeOpponent,28933
+2024,Texas,SEC,puntReturns,30
+2024,Texas,SEC,puntReturnsOpponent,16
+2024,Texas,SEC,puntReturnTDs,1
+2024,Texas,SEC,puntReturnTDsOpponent,0
+2024,Texas,SEC,puntReturnYards,315
+2024,Texas,SEC,puntReturnYardsOpponent,150
+2024,Texas,SEC,rushingAttempts,580
+2024,Texas,SEC,rushingAttemptsOpponent,538
+2024,Texas,SEC,rushingTDs,26
+2024,Texas,SEC,rushingTDsOpponent,15
+2024,Texas,SEC,rushingYards,2546
+2024,Texas,SEC,rushingYardsOpponent,1764
+2024,Texas,SEC,sacks,45
+2024,Texas,SEC,sacksOpponent,37
+2024,Texas,SEC,tacklesForLoss,113
+2024,Texas,SEC,tacklesForLossOpponent,113
+2024,Texas,SEC,thirdDownConversions,91
+2024,Texas,SEC,thirdDownConversionsOpponent,71
+2024,Texas,SEC,thirdDowns,216
+2024,Texas,SEC,thirdDownsOpponent,226
+2024,Texas,SEC,totalYards,7005
+2024,Texas,SEC,totalYardsOpponent,4545
+2024,Texas,SEC,turnovers,26
+2024,Texas,SEC,turnoversOpponent,31
+2024,Texas A&M,SEC,firstDowns,279
+2024,Texas A&M,SEC,firstDownsOpponent,256
+2024,Texas A&M,SEC,fourthDownConversions,8
+2024,Texas A&M,SEC,fourthDownConversionsOpponent,15
+2024,Texas A&M,SEC,fourthDowns,18
+2024,Texas A&M,SEC,fourthDownsOpponent,29
+2024,Texas A&M,SEC,fumblesLost,4
+2024,Texas A&M,SEC,fumblesLostOpponent,4
+2024,Texas A&M,SEC,fumblesRecovered,4
+2024,Texas A&M,SEC,fumblesRecoveredOpponent,4
+2024,Texas A&M,SEC,games,13
+2024,Texas A&M,SEC,interceptions,11
+2024,Texas A&M,SEC,interceptionsOpponent,16
+2024,Texas A&M,SEC,interceptionTDs,2
+2024,Texas A&M,SEC,interceptionTDsOpponent,0
+2024,Texas A&M,SEC,interceptionYards,249
+2024,Texas A&M,SEC,interceptionYardsOpponent,45
+2024,Texas A&M,SEC,kickReturns,16
+2024,Texas A&M,SEC,kickReturnsOpponent,23
+2024,Texas A&M,SEC,kickReturnTDs,0
+2024,Texas A&M,SEC,kickReturnTDsOpponent,0
+2024,Texas A&M,SEC,kickReturnYards,308
+2024,Texas A&M,SEC,kickReturnYardsOpponent,534
+2024,Texas A&M,SEC,netPassingYards,2734
+2024,Texas A&M,SEC,netPassingYardsOpponent,3018
+2024,Texas A&M,SEC,passAttempts,361
+2024,Texas A&M,SEC,passAttemptsOpponent,428
+2024,Texas A&M,SEC,passCompletions,216
+2024,Texas A&M,SEC,passCompletionsOpponent,228
+2024,Texas A&M,SEC,passesIntercepted,16
+2024,Texas A&M,SEC,passesInterceptedOpponent,11
+2024,Texas A&M,SEC,passingTDs,19
+2024,Texas A&M,SEC,passingTDsOpponent,20
+2024,Texas A&M,SEC,penalties,98
+2024,Texas A&M,SEC,penaltiesOpponent,80
+2024,Texas A&M,SEC,penaltyYards,862
+2024,Texas A&M,SEC,penaltyYardsOpponent,668
+2024,Texas A&M,SEC,possessionTime,24704
+2024,Texas A&M,SEC,possessionTimeOpponent,22096
+2024,Texas A&M,SEC,puntReturns,14
+2024,Texas A&M,SEC,puntReturnsOpponent,4
+2024,Texas A&M,SEC,puntReturnTDs,0
+2024,Texas A&M,SEC,puntReturnTDsOpponent,0
+2024,Texas A&M,SEC,puntReturnYards,86
+2024,Texas A&M,SEC,puntReturnYardsOpponent,33
+2024,Texas A&M,SEC,rushingAttempts,522
+2024,Texas A&M,SEC,rushingAttemptsOpponent,439
+2024,Texas A&M,SEC,rushingTDs,27
+2024,Texas A&M,SEC,rushingTDsOpponent,14
+2024,Texas A&M,SEC,rushingYards,2550
+2024,Texas A&M,SEC,rushingYardsOpponent,1760
+2024,Texas A&M,SEC,sacks,24
+2024,Texas A&M,SEC,sacksOpponent,24
+2024,Texas A&M,SEC,tacklesForLoss,92
+2024,Texas A&M,SEC,tacklesForLossOpponent,52
+2024,Texas A&M,SEC,thirdDownConversions,79
+2024,Texas A&M,SEC,thirdDownConversionsOpponent,64
+2024,Texas A&M,SEC,thirdDowns,176
+2024,Texas A&M,SEC,thirdDownsOpponent,181
+2024,Texas A&M,SEC,totalYards,5284
+2024,Texas A&M,SEC,totalYardsOpponent,4778
+2024,Texas A&M,SEC,turnovers,15
+2024,Texas A&M,SEC,turnoversOpponent,20
+2024,Vanderbilt,SEC,firstDowns,236
+2024,Vanderbilt,SEC,firstDownsOpponent,268
+2024,Vanderbilt,SEC,fourthDownConversions,8
+2024,Vanderbilt,SEC,fourthDownConversionsOpponent,8
+2024,Vanderbilt,SEC,fourthDowns,14
+2024,Vanderbilt,SEC,fourthDownsOpponent,16
+2024,Vanderbilt,SEC,fumblesLost,3
+2024,Vanderbilt,SEC,fumblesLostOpponent,6
+2024,Vanderbilt,SEC,fumblesRecovered,6
+2024,Vanderbilt,SEC,fumblesRecoveredOpponent,3
+2024,Vanderbilt,SEC,games,13
+2024,Vanderbilt,SEC,interceptions,4
+2024,Vanderbilt,SEC,interceptionsOpponent,10
+2024,Vanderbilt,SEC,interceptionTDs,2
+2024,Vanderbilt,SEC,interceptionTDsOpponent,0
+2024,Vanderbilt,SEC,interceptionYards,126
+2024,Vanderbilt,SEC,interceptionYardsOpponent,16
+2024,Vanderbilt,SEC,kickReturns,19
+2024,Vanderbilt,SEC,kickReturnsOpponent,32
+2024,Vanderbilt,SEC,kickReturnTDs,1
+2024,Vanderbilt,SEC,kickReturnTDsOpponent,0
+2024,Vanderbilt,SEC,kickReturnYards,448
+2024,Vanderbilt,SEC,kickReturnYardsOpponent,575
+2024,Vanderbilt,SEC,netPassingYards,2322
+2024,Vanderbilt,SEC,netPassingYardsOpponent,3064
+2024,Vanderbilt,SEC,passAttempts,304
+2024,Vanderbilt,SEC,passAttemptsOpponent,389
+2024,Vanderbilt,SEC,passCompletions,179
+2024,Vanderbilt,SEC,passCompletionsOpponent,265
+2024,Vanderbilt,SEC,passesIntercepted,10
+2024,Vanderbilt,SEC,passesInterceptedOpponent,4
+2024,Vanderbilt,SEC,passingTDs,21
+2024,Vanderbilt,SEC,passingTDsOpponent,24
+2024,Vanderbilt,SEC,penalties,73
+2024,Vanderbilt,SEC,penaltiesOpponent,88
+2024,Vanderbilt,SEC,penaltyYards,707
+2024,Vanderbilt,SEC,penaltyYardsOpponent,759
+2024,Vanderbilt,SEC,possessionTime,24221
+2024,Vanderbilt,SEC,possessionTimeOpponent,22579
+2024,Vanderbilt,SEC,puntReturns,18
+2024,Vanderbilt,SEC,puntReturnsOpponent,16
+2024,Vanderbilt,SEC,puntReturnTDs,1
+2024,Vanderbilt,SEC,puntReturnTDsOpponent,0
+2024,Vanderbilt,SEC,puntReturnYards,265
+2024,Vanderbilt,SEC,puntReturnYardsOpponent,178
+2024,Vanderbilt,SEC,rushingAttempts,468
+2024,Vanderbilt,SEC,rushingAttemptsOpponent,421
+2024,Vanderbilt,SEC,rushingTDs,18
+2024,Vanderbilt,SEC,rushingTDsOpponent,13
+2024,Vanderbilt,SEC,rushingYards,1825
+2024,Vanderbilt,SEC,rushingYardsOpponent,1837
+2024,Vanderbilt,SEC,sacks,25
+2024,Vanderbilt,SEC,sacksOpponent,18
+2024,Vanderbilt,SEC,tacklesForLoss,70
+2024,Vanderbilt,SEC,tacklesForLossOpponent,59
+2024,Vanderbilt,SEC,thirdDownConversions,75
+2024,Vanderbilt,SEC,thirdDownConversionsOpponent,77
+2024,Vanderbilt,SEC,thirdDowns,169
+2024,Vanderbilt,SEC,thirdDownsOpponent,163
+2024,Vanderbilt,SEC,totalYards,4147
+2024,Vanderbilt,SEC,totalYardsOpponent,4901
+2024,Vanderbilt,SEC,turnovers,7
+2024,Vanderbilt,SEC,turnoversOpponent,16
