@@ -43,6 +43,14 @@ def process_games() -> pd.DataFrame:
     """Add win flag, UF points, opponent points, and game type."""
     df = pd.read_csv(DATA_RAW / "games.csv")
 
+    # Normalize column names (CFBD returns camelCase)
+    df = df.rename(columns={
+        "homeTeam":   "home_team",
+        "awayTeam":   "away_team",
+        "homePoints": "home_points",
+        "awayPoints": "away_points",
+    })
+
     uf = df[(df["home_team"] == TEAM) | (df["away_team"] == TEAM)].copy()
     uf["win"]        = uf.apply(_uf_won, axis=1)
     uf["uf_points"]  = uf.apply(_uf_points, axis=1)
