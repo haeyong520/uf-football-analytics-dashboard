@@ -14,7 +14,7 @@ import seaborn as sns
 
 from config import (
     UF_BLUE, UF_ORANGE, SEC_GRAY, COLOR_WIN, COLOR_LOSS,
-    FIGURES_DIR, SEASONS,
+    FIGURES_DIR, DATA_PROC, SEASONS,
 )
 
 plt.rcParams.update({
@@ -295,3 +295,62 @@ def _save(fig, fname: str) -> None:
     fig.savefig(out, bbox_inches="tight")
     plt.close(fig)
     print(f"  Saved → {out}")
+
+
+# ── Main pipeline ─────────────────────────────────────────────────────────────
+
+def run_all() -> None:
+    import sys
+    sys.path.insert(0, str(FIGURES_DIR.parent.parent / "src"))
+
+    from metrics import (
+        season_record, per_game_stats, home_away_splits,
+        drive_summary, fourth_down_decision_rates,
+        win_loss_splits, win_loss_effect_sizes, sec_rankings,
+    )
+
+    games      = pd.read_csv(DATA_PROC / "games_clean.csv")
+    team_stats = pd.read_csv(DATA_PROC / "team_stats_clean.csv")
+    drives     = pd.read_csv(DATA_PROC / "drives_clean.csv")
+    fourth     = pd.read_csv(DATA_PROC / "fourth_downs_clean.csv")
+    sec        = pd.read_csv(DATA_PROC / "sec_stats_wide.csv")
+
+    print("Generating figures...\n")
+
+    print("Fig 1 — Season Profile")
+    record   = season_record(games)
+    per_game = per_game_stats(team_stats)
+    plot_season_profile(record, per_game)
+
+    print("Fig 2 — Situational Football")
+    splits       = home_away_splits(team_stats)
+    fourth_rates = fourth_down_decision_rates(fourth)
+    plot_situational(splits, fourth_rates)
+
+    print("Fig 3 — Drive Performance")
+    ds = drive_summary(drives)
+    plot_drive_performance(ds)
+
+    print("Fig 4 — Win vs. Loss")
+    wl_splits = win_loss_splits(team_stats)
+    effects   = win_loss_effect_sizes(team_stats)
+    plot_win_loss(wl_splits, effects)
+
+    print("Fig 5 — SEC Context")
+    # Compute derived metrics for SEC comparison
+    sec["thirdDownPct"] = sec["thirdDownConversions"] / sec["thirdDowns"]
+    sec["yardsPerGame"] = sec["totalYards"] / sec["games"]
+    avail = [c for c in ["yardsPerGame", "thirdDownPct", "rushingYards"]
+         if c in sec.columns]
+    
+    if avail:
+        rankings = sec_rankings(sec, season=2024, metrics=avail)
+        plot_sec_context(rankings, metrics=avail, season=2024)
+    else:
+        print("  Skipped — no matching SEC metric columns")
+
+    print(f"\nAll figures saved to {FIGURES_DIR}/")
+
+
+if __name__ == "__main__":
+    run_all()
