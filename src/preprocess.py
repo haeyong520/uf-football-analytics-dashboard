@@ -59,7 +59,20 @@ def process_team_stats() -> pd.DataFrame:
     raw   = pd.read_csv(DATA_RAW / "team_game_stats.csv")
     games = pd.read_csv(DATA_PROC / "games_clean.csv")
 
-    uf = raw[raw["team"] == TEAM].copy()
+    # team column may be NaN — filter by game_id instead
+    # UF games: keep only the row where home_away matches UF's location in that game
+    loc_map = dict(zip(games["id"], games["location"]))  # game_id → "home"/"away"
+    win_map = dict(zip(games["id"], games["win"]))
+
+    uf_game_ids = set(games["id"].tolist())
+    raw["_uf_location"] = raw["game_id"].map(loc_map)
+
+    # Keep only rows where this team's home_away matches UF's location for that game
+    uf = raw[
+        (raw["game_id"].isin(uf_game_ids)) &
+        (raw["home_away"] == raw["_uf_location"])
+    ].copy()
+    uf = uf.drop(columns=["_uf_location"])
 
     # Cast numeric stat columns that exist
     for col in ["rushingYards", "netPassingYards", "totalYards", "turnovers",
@@ -73,13 +86,9 @@ def process_team_stats() -> pd.DataFrame:
         if eff_col in uf.columns:
             uf[out_col] = uf[eff_col].apply(_parse_efficiency)
 
-    # Attach win flag via game_id → id mapping
-    win_map = dict(zip(games["id"], games["win"]))
-    uf["win"] = uf["game_id"].map(win_map)
-
-    # Attach home/away
-    loc_map = dict(zip(games["id"], games["location"]))
-    uf["home_away"] = uf["game_id"].map(loc_map)
+    # Attach win flag and location
+    uf["win"]      = uf["game_id"].map(win_map)
+    uf["season"]   = uf["game_id"].map(dict(zip(games["id"], games["season"])))
 
     uf.to_csv(DATA_PROC / "team_stats_clean.csv", index=False)
     print(f"  team_stats_clean → {len(uf)} rows")
