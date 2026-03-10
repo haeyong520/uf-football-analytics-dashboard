@@ -76,13 +76,21 @@ def load_drives(seasons=SEASONS, team=TEAM) -> pd.DataFrame:
 
 
 def load_fourth_downs(seasons=SEASONS, team=TEAM) -> pd.DataFrame:
-    """4th-down play-by-play (play type, yards to go, field position)."""
+    """4th-down play-by-play — loops weeks 1-15 per season."""
     rows = []
     for season in seasons:
-        data = _get("plays", {"year": season, "team": team, "down": 4})
-        for p in data:
-            p["season"] = season
-        rows.extend(data)
+        for week in range(1, 16):
+            try:
+                data = _get("plays", {
+                    "year": season, "team": team,
+                    "down": 4, "week": week,
+                    "seasonType": "regular"
+                })
+                for p in data:
+                    p["season"] = season
+                rows.extend(data)
+            except Exception:
+                pass
     df = pd.DataFrame(rows)
     df.to_csv(DATA_RAW / "fourth_downs.csv", index=False)
     print(f"  fourth_downs     → {len(df):>5} rows")
